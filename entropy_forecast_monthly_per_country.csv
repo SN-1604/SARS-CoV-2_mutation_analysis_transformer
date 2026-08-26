@@ -1,0 +1,107 @@
+country,n,r2,mae
+China,5,0.9754,0.4784
+South Korea,5,0.9732,0.5132
+Latvia,5,0.9558,0.6037
+Slovenia,5,0.941,0.4435
+Costa Rica,5,0.9326,0.609
+Denmark,5,0.9122,0.9587
+Netherlands,5,0.9118,0.7065
+Israel,5,0.9095,0.9353
+Germany,5,0.8899,0.8805
+Trinidad and Tobago,5,0.8871,0.5723
+Uganda,5,0.8832,1.9517
+Greece,5,0.8706,1.4269
+Norway,5,0.8576,0.887
+United States,5,0.8538,1.3187
+Turkey,5,0.8531,1.6275
+Austria,5,0.8424,0.885
+United Kingdom,5,0.8318,1.503
+Romania,5,0.8082,0.8388
+Sweden,5,0.8015,1.323
+Ireland,5,0.7976,1.0382
+Finland,5,0.7731,0.6901
+Luxembourg,5,0.7469,1.2243
+Belgium,5,0.7438,0.8354
+Nicaragua,5,0.7351,2.642
+Spain,5,0.7336,3.428
+Belize,5,0.7281,2.3145
+Jamaica,5,0.7209,0.7116
+Kenya,5,0.7207,3.3606
+Iran,5,0.7089,1.6162
+Iceland,5,0.7009,2.0083
+Lebanon,5,0.6836,7.96
+Mauritius,5,0.6775,2.1478
+Argentina,5,0.6487,1.3361
+Cambodia,5,0.6297,1.482
+Brazil,5,0.6086,1.2097
+Peru,5,0.5898,10.7034
+Thailand,5,0.5875,1.7765
+Italy,5,0.5857,19.0372
+Egypt,5,0.5822,0.8325
+Slovakia,5,0.5679,1.3855
+Mexico,5,0.5666,1.0325
+Indonesia,5,0.5532,6.4372
+Guatemala,5,0.5514,2.0436
+Australia,5,0.5465,7.1068
+Poland,5,0.5423,1.0103
+France,5,0.5305,1.0298
+Philippines,5,0.5218,3.9468
+Japan,5,0.4861,10.2892
+Bosnia and Herzegovina,5,0.4846,3.9448
+Zambia,4,0.4386,2.4505
+Sri Lanka,3,0.4323,1.8149
+Malaysia,5,0.4256,3.096
+Portugal,5,0.4165,1.2355
+Croatia,5,0.386,3.7652
+Russia,5,0.3781,1.5324
+Georgia,5,0.3744,51.04
+Saudi Arabia,5,0.349,2.4086
+Pakistan,5,0.3377,9.243
+Morocco,5,0.2352,1.6205
+Colombia,5,0.1844,0.9641
+Kuwait,5,0.1804,2.7957
+New Zealand,5,0.0449,2.526
+South Africa,5,0.0242,1.1693
+Malawi,4,-0.0393,2.4957
+Laos,5,-0.2444,2.6836
+Uruguay,5,-0.2698,1.2696
+Nepal,4,-0.3587,3.1412
+Paraguay,4,-0.4124,2.5188
+Canada,5,-0.5285,1.0415
+Vietnam,5,-0.6364,2.2345
+Bulgaria,5,-0.6411,5.1204
+Iraq,3,-0.6451,5.3757
+Guinea,2,-0.6523,1.0066
+Senegal,3,-0.6779,1.0613
+Bahrain,3,-0.6796,2.191
+Eswatini,3,-0.7086,3.9678
+Kazakhstan,5,-0.8362,2.9505
+Bangladesh,4,-0.9409,2.2563
+Cote d'Ivoire,3,-0.9409,2.6383
+Angola,3,-0.9998,2.3544
+Mongolia,5,-1.1224,1.3095
+Djibouti,5,-1.1494,1.8263
+Chile,5,-1.2787,4.47
+Ecuador,5,-1.3101,1.6764
+Gambia,2,-1.6345,4.0746
+Dominican Republic,5,-1.7192,3.7898
+Czechia,5,-1.8488,1.8578
+Botswana,3,-2.2784,1.7014
+Qatar,3,-2.6632,3.1712
+Hungary,5,-3.693,17.8682
+Cameroon,4,-4.0468,4.336
+Burkina Faso,2,-4.0783,2.6341
+Lithuania,3,-4.4032,6.21
+Tunisia,4,-4.4291,1.5864
+Haiti,2,-5.5462,1.7103
+Togo,2,-5.5691,2.2555
+Ghana,3,-6.5878,2.5294
+Myanmar,2,-7.2031,3.3686
+India,5,-7.7204,2.3924
+Congo,3,-8.5675,2.7758
+El Salvador,3,-8.6713,2.285
+Bhutan,5,-13.1235,2.6981
+Panama,5,-14.7855,1.6314
+Nigeria,3,-33.8088,2.0975
+Democratic Republic of Congo,3,-41.0263,3.5328
+Bolivia,2,-195.4825,3.92

@@ -1,0 +1,34 @@
+{
+ "exp9": {
+  "entropy_ridge": {
+   "n_train": 2605,
+   "n_val": 488,
+   "r2": -0.0961,
+   "mae": 11.3351,
+   "alpha": 0.31622776601683794,
+   "baseline_country_mean_r2": -0.0799
+  },
+  "country_id": {
+   "n_train": 3666,
+   "n_val": 705,
+   "val_acc": 0.8383
+  }
+ },
+ "repr13": {
+  "entropy_ridge": {
+   "n_train": 2605,
+   "n_val": 488,
+   "r2": -0.0204,
+   "mae": 11.2829,
+   "alpha": 1.7782794100389228,
+   "baseline_country_mean_r2": -0.0799
+  },
+  "country_id": {
+   "n_train": 3807,
+   "n_val": 705,
+   "val_acc": 1.0
+  }
+ },
+ "winner": "repr13",
+ "criterion": "primary: entropy ridge val R2; secondary: country-id val acc"
+}

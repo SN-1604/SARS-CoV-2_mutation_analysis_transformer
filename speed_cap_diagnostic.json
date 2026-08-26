@@ -1,0 +1,54 @@
+{
+ "anchor_r2": 0.8220443518459206,
+ "note": "vacc_speed cap diagnosis: old value-clip pulls observed >cap weeks down, coupling then lowers coverage (sign flip); increment clamp fixes.",
+ "channels": {
+  "+0.1": {
+   "A_speed_only": {
+    "mean_rel": 0.000117433191917371,
+    "sign_share": 0.589098532494759
+   },
+   "D_speed_cf": {
+    "mean_rel": 0.00011176204861840233,
+    "sign_share": 0.570230607966457
+   },
+   "C_full_clamp": {
+    "mean_rel": -0.000519749301020056,
+    "sign_share": 0.4360587002096436
+   },
+   "C_full_oldclip": {
+    "mean_rel": 0.001148032140918076,
+    "sign_share": 0.4989517819706499
+   },
+   "C_full_nocap": {
+    "mean_rel": 0.0019419570453464985,
+    "sign_share": 0.4129979035639413
+   },
+   "B_cov_coupled": {
+    "mean_rel": -0.0005540233687497675,
+    "sign_share": 0.4276729559748428
+   }
+  },
+  "-0.1": {
+   "A_speed_only": {
+    "mean_rel": -0.00012881011934950948,
+    "sign_share": 0.5974842767295597
+   },
+   "D_speed_cf": {
+    "mean_rel": -0.00012936546409036964,
+    "sign_share": 0.5911949685534591
+   },
+   "C_full_clamp": {
+    "mean_rel": 0.0020732313860207796,
+    "sign_share": 0.4381551362683438
+   },
+   "C_full_oldclip": {
+    "mean_rel": 0.002274471102282405,
+    "sign_share": 0.40670859538784065
+   },
+   "C_full_nocap": {
+    "mean_rel": 0.0020732313860207796,
+    "sign_share": 0.4381551362683438
+   }
+  }
+ }
+}

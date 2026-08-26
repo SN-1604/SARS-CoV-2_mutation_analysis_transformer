@@ -1,0 +1,48 @@
+{
+ "repr13": {
+  "entropy_ridge": {
+   "n_train": 2706,
+   "n_val": 488,
+   "r2": -0.1124,
+   "mae": 11.432,
+   "alpha": 1.0,
+   "baseline_country_mean_r2": -0.054
+  },
+  "country_id": {
+   "n_train": 3807,
+   "n_val": 705,
+   "val_acc": 1.0
+  }
+ },
+ "reprM_m1": {
+  "entropy_ridge": {
+   "n_train": 2706,
+   "n_val": 488,
+   "r2": 0.0156,
+   "mae": 11.4177,
+   "alpha": 3.1622776601683795,
+   "baseline_country_mean_r2": -0.054
+  },
+  "country_id": {
+   "n_train": 3807,
+   "n_val": 705,
+   "val_acc": 1.0
+  }
+ },
+ "reprM_m4": {
+  "entropy_ridge": {
+   "n_train": 2706,
+   "n_val": 488,
+   "r2": 0.0841,
+   "mae": 10.68,
+   "alpha": 3.1622776601683795,
+   "baseline_country_mean_r2": -0.054
+  },
+  "country_id": {
+   "n_train": 3807,
+   "n_val": 705,
+   "val_acc": 1.0
+  }
+ },
+ "winner": "reprM_m4"
+}
