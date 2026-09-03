@@ -1,0 +1,68 @@
+[
+ {
+  "country": "United States",
+  "cn": "美国",
+  "combo": [
+   3.0,
+   2.0,
+   2.0
+  ],
+  "speed_applied": 2.0,
+  "reduction": 0.0490760804323388
+ },
+ {
+  "country": "United Kingdom",
+  "cn": "英国",
+  "combo": [
+   3.0,
+   2.0,
+   2.0
+  ],
+  "speed_applied": 2.0,
+  "reduction": 0.04547477306179899
+ },
+ {
+  "country": "China",
+  "cn": "中国",
+  "combo": [
+   3.0,
+   2.0,
+   0.5
+  ],
+  "speed_applied": 2.0,
+  "reduction": 0.10035409445339301
+ },
+ {
+  "country": "Spain",
+  "cn": "西班牙",
+  "combo": [
+   3.0,
+   2.0,
+   0.5
+  ],
+  "speed_applied": 2.0,
+  "reduction": 0.06839040700080867
+ },
+ {
+  "country": "Mexico",
+  "cn": "墨西哥",
+  "combo": [
+   3.0,
+   3.0,
+   2.0
+  ],
+  "speed_applied": 3.0,
+  "reduction": 0.08378675867326345
+ },
+ {
+  "country": "Turkey",
+  "cn": "土耳其",
+  "combo": [
+   3.0,
+   3.0,
+   2.0
+  ],
+  "speed_applied": 3.0,
+  "reduction": 0.06177979469896955
+ }
+]

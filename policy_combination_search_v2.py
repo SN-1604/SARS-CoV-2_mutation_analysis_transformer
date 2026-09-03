@@ -10,7 +10,9 @@
                                                 观测值<15 的国家-周不允许下调)
 反事实构造与 factor_sensitivity.build_counterfactual_panel 完全一致。
 目标: 预测熵最小 (遏制变异速度 -> 趋同进化)。
-输出: policy_combination_results.json (含 speed_reachability), policy_recommendations.csv
+输出: policy_combination_results_v2.json (含 speed_reachability), policy_recommendations_v2.csv
+v2 适配: 熵预测模型为 entropy_forecast_monthly_v2_best.pt (未校准集成,
+forecast_v4_adapter); 反事实构造与 factor_sensitivity_v2 完全一致。
 """
 import datetime as dt
 import json, pickle
@@ -20,16 +22,14 @@ import numpy as np
 import torch
 
 from owid_repr13 import make_model
-from finalize_monthly_forecast import RES
-from train_entropy_forecast_monthly import build_samples, MONTHS, MIDX
-from factor_sensitivity import (GROUPS, build_counterfactual_panel,
-                                clamp_speed_increase)
+from forecast_v4_adapter import V4Forecaster
+from train_entropy_forecast_monthly import MONTHS, MIDX
+from factor_sensitivity_v2 import (GROUPS, build_counterfactual_panel,
+                                   clamp_speed_increase)
 
 PANEL_PKL = "owid_weekly_panel.pkl"
 REPR_CKPT = "repr13_best.pt"
-FORE_CKPT = "entropy_forecast_monthly_best.pt"
 TRAIN_END = "2022-07"
-K = 3
 
 COV = [0.5, 0.75, 1.0, 1.5, 2.0, 3.0]
 SPD = [0.5, 1.0, 1.5, 2.0, 3.0, 5.0]
@@ -55,14 +55,8 @@ def main():
     repr_model.load_state_dict(ck["state_dict"])
     repr_model.eval()
 
-    fck = torch.load(FORE_CKPT, map_location="cpu", weights_only=False)
-    fore = []
-    for st in fck["ensemble_state_dicts"]:
-        net = RES().to(device)
-        net.load_state_dict(st)
-        net.eval()
-        fore.append(net)
-    y_mu, y_sd = fck["y_mu"], fck["y_sd"]
+    fc = V4Forecaster(ckpt="entropy_forecast_monthly_v2_best.pt", device=device)
+    K = fc.K_max
     pr_models = pickle.load(open("policy_response_models.pkl", "rb"))["models"]
 
     panel = pickle.load(open(PANEL_PKL, "rb"))
@@ -74,8 +68,8 @@ def main():
     midx_panel = {m: i for i, m in enumerate(month_of_year)}
     gidx = {g: [cols.index(c) for c in gcols] for g, gcols in GROUPS.items()}
 
-    Xe, Xh, Xm, y, cs, ts, countries = build_samples(K)
-    val = np.nonzero(ts > TRAIN_END)[0]
+    y, cs, ts, countries = fc.y, fc.cs, fc.ts, fc.countries
+    val = fc.val_idx
     use_ci = np.array([countries_repr.index(countries[cs[i]]) for i in val])
     NC = len(countries_repr)
 
@@ -141,15 +135,8 @@ def main():
                 jj += 1
         return out
 
-    xh = ((np.log1p(Xh[val]) - y_mu) / y_sd * Xm[val]).astype(np.float32)
-    xm = Xm[val][:, :, None].astype(np.float32)
-
     def predict(Em_samples):
-        Xb = np.concatenate([Em_samples, xh[:, :, None], xm], axis=2)
-        with torch.no_grad():
-            pz = torch.stack([net(torch.from_numpy(Xb).to(device))
-                              for net in fore]).mean(0).cpu().numpy()
-        return np.clip(np.expm1(pz * y_sd + y_mu), 0, None)
+        return fc.predict_val(Em_samples)
 
     # ---- 基线 ----
     y0 = predict(embed_all(np.ones(38)))
@@ -259,10 +246,10 @@ def main():
             coverage=COV, stringency=STR,
             reduction=eff.round(5).tolist(), synergy=syn.round(5).tolist()),
     )
-    json.dump(out, open("policy_combination_results.json", "w"),
-              ensure_ascii=False, indent=1)
+    json.dump(out, open("policy_combination_results_v2.json", "w",
+              encoding="utf-8"), ensure_ascii=False, indent=1)
     import csv
-    with open("policy_recommendations.csv", "w", newline="", encoding="utf-8") as f:
+    with open("policy_recommendations_v2.csv", "w", newline="", encoding="utf-8") as f:
         w = csv.DictWriter(f, fieldnames=list(recs[0].keys()))
         w.writeheader()
         w.writerows(recs)

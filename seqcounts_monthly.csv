@@ -1,0 +1,4859 @@
+country,month,n_seq
+Afghanistan,2020-05,1
+Afghanistan,2020-06,3
+Afghanistan,2021-01,3
+Afghanistan,2021-03,2
+Afghanistan,2021-04,7
+Afghanistan,2021-05,11
+Afghanistan,2022-04,1
+Albania,2020-09,1
+Albania,2020-12,1
+Albania,2021-01,6
+Albania,2021-02,1
+Albania,2021-03,4
+Albania,2021-06,2
+Albania,2021-07,6
+Albania,2021-08,2
+Albania,2021-09,5
+Albania,2021-10,3
+Albania,2021-11,69
+Albania,2021-12,159
+Albania,2022-01,28
+Albania,2022-02,47
+Algeria,2020-03,1
+Algeria,2020-05,3
+Algeria,2020-06,6
+Algeria,2020-07,1
+Algeria,2020-09,4
+Algeria,2020-10,1
+Algeria,2020-11,8
+Algeria,2020-12,8
+Algeria,2021-01,7
+Algeria,2021-02,3
+Algeria,2021-03,5
+Algeria,2021-04,4
+Algeria,2021-05,7
+Algeria,2021-06,2
+Algeria,2021-07,8
+Algeria,2021-08,1
+Algeria,2021-09,3
+Algeria,2021-11,2
+Algeria,2021-12,4
+Algeria,2022-01,3
+Algeria,2022-02,3
+Algeria,2022-03,2
+Algeria,2022-06,3
+Algeria,2022-07,35
+Algeria,2022-08,20
+Algeria,2022-09,4
+Algeria,2022-10,7
+Algeria,2022-11,7
+Algeria,2022-12,14
+American Samoa,2022-01,1
+American Samoa,2022-03,1
+American Samoa,2022-04,5
+American Samoa,2022-05,7
+American Samoa,2022-06,7
+American Samoa,2022-07,6
+American Samoa,2022-08,2
+American Samoa,2022-12,2
+Andorra,2020-03,1
+Andorra,2021-06,4
+Andorra,2021-07,9
+Andorra,2021-08,4
+Andorra,2021-09,3
+Andorra,2021-10,3
+Andorra,2021-11,2
+Andorra,2021-12,12
+Andorra,2022-01,5
+Andorra,2022-02,4
+Andorra,2022-03,3
+Andorra,2022-04,8
+Andorra,2022-05,12
+Andorra,2022-06,13
+Andorra,2022-07,14
+Andorra,2022-08,5
+Andorra,2022-09,3
+Andorra,2022-10,2
+Andorra,2022-11,2
+Andorra,2022-12,7
+Angola,2020-12,5
+Angola,2021-01,1
+Angola,2021-02,2
+Angola,2021-03,8
+Angola,2021-04,7
+Angola,2021-05,2
+Angola,2021-06,8
+Angola,2021-07,7
+Angola,2021-08,3
+Angola,2021-09,38
+Angola,2021-10,14
+Angola,2021-11,1
+Angola,2021-12,2
+Angola,2022-01,3
+Angola,2022-07,1
+Angola,2022-08,10
+Angola,2022-09,6
+Angola,2022-10,6
+Anguilla,2022-02,2
+Anguilla,2022-05,3
+Anguilla,2022-06,5
+Anguilla,2022-07,6
+Anguilla,2022-10,2
+Anguilla,2022-11,1
+Antigua and Barbuda,2021-02,1
+Antigua and Barbuda,2021-03,1
+Antigua and Barbuda,2021-05,1
+Antigua and Barbuda,2021-07,1
+Antigua and Barbuda,2021-12,4
+Antigua and Barbuda,2022-04,12
+Antigua and Barbuda,2022-05,11
+Antigua and Barbuda,2022-12,3
+Argentina,2020-01,1
+Argentina,2020-03,6
+Argentina,2020-04,11
+Argentina,2020-05,37
+Argentina,2020-06,20
+Argentina,2020-07,51
+Argentina,2020-08,64
+Argentina,2020-09,29
+Argentina,2020-10,57
+Argentina,2020-11,53
+Argentina,2020-12,67
+Argentina,2021-01,78
+Argentina,2021-02,65
+Argentina,2021-03,123
+Argentina,2021-04,212
+Argentina,2021-05,191
+Argentina,2021-06,294
+Argentina,2021-07,282
+Argentina,2021-08,393
+Argentina,2021-09,234
+Argentina,2021-10,166
+Argentina,2021-11,248
+Argentina,2021-12,363
+Argentina,2022-01,80
+Argentina,2022-02,24
+Argentina,2022-03,23
+Argentina,2022-04,22
+Argentina,2022-05,120
+Argentina,2022-06,176
+Argentina,2022-07,198
+Argentina,2022-08,155
+Argentina,2022-09,68
+Argentina,2022-10,29
+Argentina,2022-11,67
+Argentina,2022-12,504
+Armenia,2020-07,8
+Armenia,2020-08,15
+Armenia,2020-09,9
+Armenia,2021-01,8
+Armenia,2021-03,8
+Armenia,2022-01,1
+Aruba,2020-03,2
+Aruba,2020-08,2
+Aruba,2021-01,35
+Aruba,2021-02,71
+Aruba,2021-03,61
+Aruba,2021-04,59
+Aruba,2021-05,47
+Aruba,2021-06,31
+Aruba,2021-07,43
+Aruba,2021-08,95
+Aruba,2021-09,58
+Aruba,2021-10,14
+Aruba,2021-11,31
+Aruba,2021-12,33
+Aruba,2022-01,7
+Aruba,2022-02,3
+Aruba,2022-03,10
+Aruba,2022-04,4
+Aruba,2022-05,37
+Aruba,2022-06,19
+Aruba,2022-07,30
+Aruba,2022-08,42
+Aruba,2022-09,30
+Aruba,2022-10,23
+Aruba,2022-11,27
+Aruba,2022-12,30
+Australia,2020-01,4
+Australia,2020-02,6
+Australia,2020-03,205
+Australia,2020-04,78
+Australia,2020-05,16
+Australia,2020-06,52
+Australia,2020-07,318
+Australia,2020-08,315
+Australia,2020-09,105
+Australia,2020-10,70
+Australia,2020-11,51
+Australia,2020-12,86
+Australia,2021-01,65
+Australia,2021-02,30
+Australia,2021-03,62
+Australia,2021-04,98
+Australia,2021-05,51
+Australia,2021-06,42
+Australia,2021-07,98
+Australia,2021-08,152
+Australia,2021-09,278
+Australia,2021-10,261
+Australia,2021-11,308
+Australia,2021-12,519
+Australia,2022-01,458
+Australia,2022-02,642
+Australia,2022-03,960
+Australia,2022-04,1013
+Australia,2022-05,1279
+Australia,2022-06,1255
+Australia,2022-07,1294
+Australia,2022-08,1322
+Australia,2022-09,1183
+Australia,2022-10,1561
+Australia,2022-11,1783
+Australia,2022-12,1418
+Austria,2020-02,2
+Austria,2020-03,61
+Austria,2020-04,34
+Austria,2020-05,11
+Austria,2020-06,6
+Austria,2020-07,7
+Austria,2020-08,25
+Austria,2020-09,13
+Austria,2020-10,45
+Austria,2020-11,106
+Austria,2020-12,74
+Austria,2021-01,131
+Austria,2021-02,164
+Austria,2021-03,201
+Austria,2021-04,203
+Austria,2021-05,256
+Austria,2021-06,129
+Austria,2021-07,63
+Austria,2021-08,60
+Austria,2021-09,108
+Austria,2021-10,284
+Austria,2021-11,321
+Austria,2021-12,264
+Austria,2022-01,247
+Austria,2022-02,325
+Austria,2022-03,344
+Austria,2022-04,240
+Austria,2022-05,372
+Austria,2022-06,561
+Austria,2022-07,370
+Austria,2022-08,700
+Austria,2022-09,802
+Austria,2022-10,906
+Austria,2022-11,919
+Austria,2022-12,902
+Azerbaijan,2020-03,2
+Azerbaijan,2020-04,2
+Azerbaijan,2020-05,3
+Azerbaijan,2020-06,4
+Azerbaijan,2020-07,1
+Azerbaijan,2020-08,2
+Azerbaijan,2020-10,26
+Azerbaijan,2020-11,13
+Azerbaijan,2020-12,23
+Azerbaijan,2021-01,7
+Azerbaijan,2021-02,2
+Azerbaijan,2021-08,5
+Azerbaijan,2021-09,9
+Azerbaijan,2021-10,5
+Azerbaijan,2021-11,6
+Azerbaijan,2022-01,3
+Azerbaijan,2022-02,1
+Bahamas,2020-03,1
+Bahamas,2020-04,2
+Bahamas,2020-07,1
+Bahamas,2020-08,2
+Bahamas,2020-09,1
+Bahamas,2020-10,2
+Bahamas,2020-11,6
+Bahamas,2021-01,4
+Bahamas,2021-03,5
+Bahamas,2021-04,9
+Bahamas,2021-05,4
+Bahamas,2021-06,5
+Bahamas,2021-07,14
+Bahamas,2021-08,17
+Bahamas,2021-10,8
+Bahamas,2021-11,18
+Bahamas,2021-12,4
+Bahrain,2020-03,5
+Bahrain,2020-04,6
+Bahrain,2020-05,1
+Bahrain,2020-06,6
+Bahrain,2020-07,3
+Bahrain,2020-08,1
+Bahrain,2020-09,5
+Bahrain,2020-10,24
+Bahrain,2020-11,14
+Bahrain,2020-12,4
+Bahrain,2021-01,8
+Bahrain,2021-02,18
+Bahrain,2021-03,5
+Bahrain,2021-04,24
+Bahrain,2021-05,20
+Bahrain,2021-06,46
+Bahrain,2021-07,77
+Bahrain,2021-08,112
+Bahrain,2021-09,101
+Bahrain,2021-10,220
+Bahrain,2021-11,212
+Bahrain,2021-12,115
+Bahrain,2022-01,34
+Bahrain,2022-02,293
+Bahrain,2022-03,125
+Bahrain,2022-04,99
+Bahrain,2022-05,139
+Bahrain,2022-06,41
+Bahrain,2022-07,94
+Bahrain,2022-08,52
+Bahrain,2022-11,25
+Bahrain,2022-12,69
+Bangladesh,2020-04,24
+Bangladesh,2020-05,48
+Bangladesh,2020-06,70
+Bangladesh,2020-07,87
+Bangladesh,2020-08,45
+Bangladesh,2020-09,32
+Bangladesh,2020-10,21
+Bangladesh,2020-11,23
+Bangladesh,2020-12,55
+Bangladesh,2021-01,52
+Bangladesh,2021-02,34
+Bangladesh,2021-03,77
+Bangladesh,2021-04,55
+Bangladesh,2021-05,49
+Bangladesh,2021-06,111
+Bangladesh,2021-07,164
+Bangladesh,2021-08,176
+Bangladesh,2021-09,152
+Bangladesh,2021-10,92
+Bangladesh,2021-11,110
+Bangladesh,2021-12,102
+Bangladesh,2022-01,131
+Bangladesh,2022-02,61
+Bangladesh,2022-03,28
+Bangladesh,2022-05,5
+Bangladesh,2022-06,49
+Bangladesh,2022-07,24
+Bangladesh,2022-08,4
+Bangladesh,2022-09,39
+Bangladesh,2022-10,21
+Bangladesh,2022-12,1
+Barbados,2021-07,3
+Barbados,2021-08,2
+Barbados,2022-05,14
+Barbados,2022-06,16
+Barbados,2022-07,21
+Barbados,2022-08,4
+Barbados,2022-09,4
+Barbados,2022-10,12
+Barbados,2022-11,4
+Barbados,2022-12,5
+Belarus,2020-03,2
+Belarus,2020-05,3
+Belarus,2020-06,6
+Belarus,2020-10,9
+Belarus,2020-11,8
+Belarus,2020-12,1
+Belarus,2021-01,3
+Belarus,2021-02,3
+Belarus,2021-03,3
+Belarus,2021-04,1
+Belarus,2021-05,1
+Belarus,2021-08,11
+Belarus,2021-09,40
+Belarus,2021-10,19
+Belarus,2021-11,28
+Belarus,2021-12,68
+Belarus,2022-01,19
+Belgium,2020-02,4
+Belgium,2020-03,67
+Belgium,2020-04,71
+Belgium,2020-05,36
+Belgium,2020-06,17
+Belgium,2020-07,21
+Belgium,2020-08,31
+Belgium,2020-09,55
+Belgium,2020-10,80
+Belgium,2020-11,75
+Belgium,2020-12,84
+Belgium,2021-01,405
+Belgium,2021-02,494
+Belgium,2021-03,686
+Belgium,2021-04,867
+Belgium,2021-05,931
+Belgium,2021-06,600
+Belgium,2021-07,704
+Belgium,2021-08,1359
+Belgium,2021-09,988
+Belgium,2021-10,990
+Belgium,2021-11,1392
+Belgium,2021-12,1433
+Belgium,2022-01,940
+Belgium,2022-02,894
+Belgium,2022-03,905
+Belgium,2022-04,827
+Belgium,2022-05,704
+Belgium,2022-06,774
+Belgium,2022-07,790
+Belgium,2022-08,680
+Belgium,2022-09,747
+Belgium,2022-10,759
+Belgium,2022-11,331
+Belgium,2022-12,347
+Belize,2020-03,2
+Belize,2020-04,1
+Belize,2020-08,1
+Belize,2020-09,2
+Belize,2020-10,3
+Belize,2020-12,5
+Belize,2021-01,10
+Belize,2021-02,2
+Belize,2021-04,2
+Belize,2021-05,4
+Belize,2021-06,5
+Belize,2021-07,23
+Belize,2021-08,2
+Belize,2021-12,37
+Belize,2022-01,4
+Belize,2022-02,4
+Belize,2022-03,6
+Belize,2022-05,7
+Belize,2022-06,5
+Belize,2022-07,20
+Belize,2022-08,8
+Belize,2022-09,4
+Belize,2022-10,4
+Belize,2022-11,23
+Belize,2022-12,6
+Benin,2020-03,5
+Benin,2020-04,3
+Benin,2021-01,10
+Benin,2021-02,36
+Benin,2021-03,98
+Benin,2021-04,21
+Benin,2021-05,10
+Benin,2021-07,8
+Benin,2021-08,43
+Benin,2021-09,2
+Benin,2021-10,3
+Benin,2021-11,1
+Benin,2021-12,5
+Benin,2022-01,4
+Benin,2022-02,5
+Benin,2022-04,1
+Benin,2022-05,12
+Benin,2022-06,1
+Benin,2022-07,8
+Bermuda,2020-10,7
+Bermuda,2020-11,6
+Bermuda,2021-08,3
+Bermuda,2021-09,2
+Bermuda,2021-11,7
+Bermuda,2021-12,7
+Bermuda,2022-04,1
+Bermuda,2022-05,1
+Bermuda,2022-06,11
+Bermuda,2022-07,12
+Bermuda,2022-08,7
+Bermuda,2022-09,4
+Bermuda,2022-10,4
+Bermuda,2022-11,3
+Bermuda,2022-12,8
+Bhutan,2020-05,1
+Bhutan,2020-06,2
+Bhutan,2020-07,2
+Bhutan,2020-08,5
+Bhutan,2020-09,1
+Bhutan,2020-10,2
+Bhutan,2020-11,2
+Bhutan,2020-12,3
+Bhutan,2021-01,4
+Bhutan,2021-03,1
+Bhutan,2021-04,8
+Bhutan,2021-05,4
+Bhutan,2022-01,1
+Bhutan,2022-04,9
+Bhutan,2022-08,2
+Bhutan,2022-09,2
+Bhutan,2022-10,2
+Bhutan,2022-11,3
+Bhutan,2022-12,3
+Bolivia,2020-03,2
+Bolivia,2020-04,2
+Bolivia,2020-05,5
+Bolivia,2020-06,5
+Bolivia,2020-07,3
+Bolivia,2020-08,8
+Bolivia,2020-09,6
+Bolivia,2020-10,4
+Bolivia,2020-11,4
+Bolivia,2020-12,12
+Bolivia,2021-01,9
+Bolivia,2021-02,9
+Bolivia,2021-03,9
+Bolivia,2021-04,2
+Bolivia,2021-05,4
+Bolivia,2021-06,19
+Bolivia,2021-07,8
+Bolivia,2021-08,9
+Bolivia,2021-09,4
+Bolivia,2021-10,8
+Bolivia,2021-11,5
+Bolivia,2021-12,7
+Bolivia,2022-01,2
+Bolivia,2022-05,1
+Bolivia,2022-06,7
+Bolivia,2022-07,9
+Bolivia,2022-08,1
+Bolivia,2022-12,5
+Bonaire,2021-02,7
+Bonaire,2021-03,9
+Bonaire,2021-04,5
+Bonaire,2021-05,5
+Bonaire,2021-06,4
+Bonaire,2021-07,10
+Bonaire,2021-08,11
+Bonaire,2021-09,17
+Bonaire,2021-10,20
+Bonaire,2021-11,18
+Bonaire,2021-12,31
+Bonaire,2022-01,22
+Bonaire,2022-02,13
+Bonaire,2022-03,11
+Bonaire,2022-04,16
+Bonaire,2022-05,14
+Bonaire,2022-06,26
+Bonaire,2022-07,31
+Bonaire,2022-08,22
+Bonaire,2022-09,14
+Bonaire,2022-10,19
+Bonaire,2022-11,22
+Bonaire,2022-12,29
+Bosnia and Herzegovina,2020-03,4
+Bosnia and Herzegovina,2020-04,2
+Bosnia and Herzegovina,2020-05,2
+Bosnia and Herzegovina,2020-07,1
+Bosnia and Herzegovina,2020-08,1
+Bosnia and Herzegovina,2020-09,2
+Bosnia and Herzegovina,2020-10,2
+Bosnia and Herzegovina,2020-11,4
+Bosnia and Herzegovina,2020-12,4
+Bosnia and Herzegovina,2021-01,11
+Bosnia and Herzegovina,2021-02,13
+Bosnia and Herzegovina,2021-03,7
+Bosnia and Herzegovina,2021-04,4
+Bosnia and Herzegovina,2021-05,4
+Bosnia and Herzegovina,2021-06,29
+Bosnia and Herzegovina,2021-07,21
+Bosnia and Herzegovina,2021-08,7
+Bosnia and Herzegovina,2021-09,10
+Bosnia and Herzegovina,2021-10,75
+Bosnia and Herzegovina,2021-11,92
+Bosnia and Herzegovina,2021-12,99
+Bosnia and Herzegovina,2022-01,34
+Bosnia and Herzegovina,2022-02,9
+Bosnia and Herzegovina,2022-03,11
+Bosnia and Herzegovina,2022-05,3
+Bosnia and Herzegovina,2022-06,8
+Bosnia and Herzegovina,2022-07,5
+Bosnia and Herzegovina,2022-08,3
+Bosnia and Herzegovina,2022-09,2
+Bosnia and Herzegovina,2022-10,4
+Bosnia and Herzegovina,2022-11,4
+Bosnia and Herzegovina,2022-12,13
+Botswana,2020-03,1
+Botswana,2020-04,1
+Botswana,2020-09,1
+Botswana,2020-10,2
+Botswana,2020-11,1
+Botswana,2020-12,4
+Botswana,2021-01,3
+Botswana,2021-03,1
+Botswana,2021-05,1
+Botswana,2021-07,8
+Botswana,2021-09,13
+Botswana,2021-10,19
+Botswana,2021-11,20
+Botswana,2021-12,10
+Botswana,2022-01,7
+Botswana,2022-02,1
+Botswana,2022-03,1
+Botswana,2022-04,1
+Botswana,2022-05,1
+Botswana,2022-06,14
+Botswana,2022-07,6
+Botswana,2022-08,3
+Botswana,2022-09,1
+Botswana,2022-12,1
+Brazil,2020-02,4
+Brazil,2020-03,32
+Brazil,2020-04,126
+Brazil,2020-05,100
+Brazil,2020-06,154
+Brazil,2020-07,271
+Brazil,2020-08,280
+Brazil,2020-09,263
+Brazil,2020-10,256
+Brazil,2020-11,372
+Brazil,2020-12,373
+Brazil,2021-01,721
+Brazil,2021-02,792
+Brazil,2021-03,1111
+Brazil,2021-04,1597
+Brazil,2021-05,2184
+Brazil,2021-06,2744
+Brazil,2021-07,2672
+Brazil,2021-08,2511
+Brazil,2021-09,2164
+Brazil,2021-10,1854
+Brazil,2021-11,1801
+Brazil,2021-12,1262
+Brazil,2022-01,1551
+Brazil,2022-02,1100
+Brazil,2022-03,733
+Brazil,2022-04,491
+Brazil,2022-05,1225
+Brazil,2022-06,1559
+Brazil,2022-07,1574
+Brazil,2022-08,737
+Brazil,2022-09,246
+Brazil,2022-10,430
+Brazil,2022-11,1332
+Brazil,2022-12,1152
+British Virgin Islands,2021-07,1
+British Virgin Islands,2021-09,4
+British Virgin Islands,2021-10,1
+British Virgin Islands,2021-12,4
+British Virgin Islands,2022-05,10
+Brunei,2020-03,1
+Brunei,2020-12,1
+Brunei,2021-01,1
+Brunei,2021-07,7
+Brunei,2021-08,3
+Brunei,2021-10,5
+Brunei,2021-11,32
+Brunei,2021-12,24
+Brunei,2022-01,41
+Brunei,2022-02,5
+Brunei,2022-03,10
+Brunei,2022-04,6
+Brunei,2022-05,6
+Brunei,2022-06,9
+Brunei,2022-07,6
+Brunei,2022-08,23
+Brunei,2022-09,43
+Brunei,2022-10,61
+Brunei,2022-11,60
+Brunei,2022-12,82
+Bulgaria,2020-03,1
+Bulgaria,2020-04,3
+Bulgaria,2020-05,4
+Bulgaria,2020-07,2
+Bulgaria,2020-08,5
+Bulgaria,2020-09,7
+Bulgaria,2020-10,6
+Bulgaria,2020-11,9
+Bulgaria,2020-12,34
+Bulgaria,2021-01,68
+Bulgaria,2021-02,101
+Bulgaria,2021-03,225
+Bulgaria,2021-04,186
+Bulgaria,2021-05,92
+Bulgaria,2021-06,78
+Bulgaria,2021-07,50
+Bulgaria,2021-08,10
+Bulgaria,2021-09,170
+Bulgaria,2021-10,514
+Bulgaria,2021-11,613
+Bulgaria,2021-12,483
+Bulgaria,2022-01,499
+Bulgaria,2022-02,194
+Bulgaria,2022-03,53
+Bulgaria,2022-04,13
+Bulgaria,2022-05,4
+Bulgaria,2022-07,17
+Bulgaria,2022-08,14
+Bulgaria,2022-09,6
+Bulgaria,2022-10,38
+Bulgaria,2022-11,22
+Bulgaria,2022-12,1
+Burkina Faso,2020-05,1
+Burkina Faso,2020-08,1
+Burkina Faso,2020-09,8
+Burkina Faso,2020-10,3
+Burkina Faso,2020-11,5
+Burkina Faso,2020-12,35
+Burkina Faso,2021-01,6
+Burkina Faso,2021-02,8
+Burkina Faso,2021-03,6
+Burkina Faso,2021-04,5
+Burkina Faso,2021-06,1
+Burkina Faso,2021-08,7
+Burkina Faso,2021-09,9
+Burkina Faso,2021-10,7
+Burkina Faso,2021-11,5
+Burkina Faso,2021-12,15
+Burkina Faso,2022-01,9
+Burkina Faso,2022-05,2
+Burkina Faso,2022-06,2
+Burkina Faso,2022-08,4
+Burkina Faso,2022-09,1
+Burundi,2021-05,5
+Burundi,2021-07,5
+Cabo Verde,2020-10,1
+Cabo Verde,2020-11,5
+Cabo Verde,2020-12,4
+Cabo Verde,2021-01,10
+Cabo Verde,2021-02,5
+Cabo Verde,2021-05,15
+Cabo Verde,2021-07,11
+Cabo Verde,2021-08,25
+Cabo Verde,2021-09,2
+Cabo Verde,2021-10,5
+Cabo Verde,2021-11,9
+Cabo Verde,2021-12,17
+Cabo Verde,2022-01,12
+Cabo Verde,2022-02,2
+Cabo Verde,2022-03,1
+Cabo Verde,2022-04,2
+Cabo Verde,2022-05,4
+Cabo Verde,2022-06,6
+Cabo Verde,2022-07,8
+Cabo Verde,2022-08,7
+Cabo Verde,2022-10,1
+Cabo Verde,2022-12,3
+Cambodia,2020-01,1
+Cambodia,2020-03,7
+Cambodia,2020-11,5
+Cambodia,2020-12,6
+Cambodia,2021-01,1
+Cambodia,2021-02,4
+Cambodia,2021-03,4
+Cambodia,2021-04,19
+Cambodia,2021-05,30
+Cambodia,2021-06,65
+Cambodia,2021-07,56
+Cambodia,2021-08,62
+Cambodia,2021-09,92
+Cambodia,2021-10,110
+Cambodia,2021-11,127
+Cambodia,2021-12,124
+Cambodia,2022-01,81
+Cambodia,2022-02,47
+Cambodia,2022-03,38
+Cambodia,2022-04,36
+Cambodia,2022-05,22
+Cambodia,2022-06,27
+Cambodia,2022-07,52
+Cambodia,2022-08,60
+Cambodia,2022-09,40
+Cambodia,2022-10,24
+Cambodia,2022-11,21
+Cambodia,2022-12,53
+Cameroon,2020-03,1
+Cameroon,2020-04,3
+Cameroon,2020-05,5
+Cameroon,2020-06,4
+Cameroon,2020-08,1
+Cameroon,2020-10,2
+Cameroon,2020-11,4
+Cameroon,2020-12,12
+Cameroon,2021-01,21
+Cameroon,2021-02,15
+Cameroon,2021-03,6
+Cameroon,2021-04,9
+Cameroon,2021-05,7
+Cameroon,2021-06,5
+Cameroon,2021-07,1
+Cameroon,2021-08,12
+Cameroon,2021-09,30
+Cameroon,2021-10,2
+Cameroon,2021-11,10
+Cameroon,2021-12,30
+Cameroon,2022-01,63
+Cameroon,2022-02,7
+Cameroon,2022-03,4
+Cameroon,2022-04,4
+Cameroon,2022-05,5
+Cameroon,2022-06,6
+Cameroon,2022-07,19
+Cameroon,2022-08,15
+Cameroon,2022-09,6
+Cameroon,2022-10,9
+Cameroon,2022-11,1
+Canada,2020-01,1
+Canada,2020-02,3
+Canada,2020-03,280
+Canada,2020-04,349
+Canada,2020-05,236
+Canada,2020-06,112
+Canada,2020-07,99
+Canada,2020-08,177
+Canada,2020-09,205
+Canada,2020-10,359
+Canada,2020-11,740
+Canada,2020-12,850
+Canada,2021-01,1259
+Canada,2021-02,908
+Canada,2021-03,1510
+Canada,2021-04,2204
+Canada,2021-05,1802
+Canada,2021-06,1120
+Canada,2021-07,751
+Canada,2021-08,2350
+Canada,2021-09,2051
+Canada,2021-10,1945
+Canada,2021-11,2654
+Canada,2021-12,2456
+Canada,2022-01,1759
+Canada,2022-02,1684
+Canada,2022-03,1755
+Canada,2022-04,1991
+Canada,2022-05,1924
+Canada,2022-06,1843
+Canada,2022-07,2034
+Canada,2022-08,2058
+Canada,2022-09,2193
+Canada,2022-10,2455
+Canada,2022-11,2060
+Canada,2022-12,2499
+Canary Islands,2020-05,1
+Canary Islands,2020-12,32
+Canary Islands,2021-01,37
+Canary Islands,2021-02,17
+Canary Islands,2021-03,28
+Canary Islands,2021-04,42
+Canary Islands,2021-07,32
+Canary Islands,2021-08,97
+Canary Islands,2021-09,39
+Canary Islands,2021-10,28
+Canary Islands,2021-11,83
+Canary Islands,2021-12,130
+Canary Islands,2022-01,78
+Canary Islands,2022-02,69
+Canary Islands,2022-03,53
+Canary Islands,2022-04,78
+Canary Islands,2022-05,113
+Canary Islands,2022-06,98
+Canary Islands,2022-07,106
+Canary Islands,2022-08,51
+Canary Islands,2022-09,36
+Canary Islands,2022-10,48
+Canary Islands,2022-11,45
+Canary Islands,2022-12,27
+Cayman Islands,2020-12,4
+Cayman Islands,2021-01,4
+Cayman Islands,2021-02,3
+Cayman Islands,2021-03,5
+Cayman Islands,2021-04,6
+Cayman Islands,2021-05,1
+Cayman Islands,2021-06,4
+Cayman Islands,2021-07,7
+Cayman Islands,2021-09,1
+Cayman Islands,2022-12,29
+Central African Republic,2020-11,2
+Central African Republic,2020-12,1
+Central African Republic,2021-01,1
+Central African Republic,2021-02,6
+Central African Republic,2021-03,11
+Central African Republic,2021-11,2
+Central African Republic,2021-12,6
+Central African Republic,2022-01,1
+Central African Republic,2022-06,1
+Central African Republic,2022-09,2
+Central African Republic,2022-10,1
+Central African Republic,2022-11,1
+Chad,2021-07,2
+Chad,2021-08,5
+Chad,2021-09,2
+Chad,2021-11,14
+Chad,2021-12,3
+Chile,2020-02,1
+Chile,2020-03,20
+Chile,2020-04,23
+Chile,2020-05,29
+Chile,2020-06,27
+Chile,2020-07,24
+Chile,2020-08,34
+Chile,2020-09,48
+Chile,2020-10,46
+Chile,2020-11,14
+Chile,2020-12,66
+Chile,2021-01,69
+Chile,2021-02,91
+Chile,2021-03,149
+Chile,2021-04,284
+Chile,2021-05,341
+Chile,2021-06,336
+Chile,2021-07,422
+Chile,2021-08,427
+Chile,2021-09,488
+Chile,2021-10,465
+Chile,2021-11,347
+Chile,2021-12,469
+Chile,2022-01,222
+Chile,2022-02,129
+Chile,2022-03,248
+Chile,2022-04,358
+Chile,2022-05,607
+Chile,2022-06,596
+Chile,2022-07,591
+Chile,2022-08,545
+Chile,2022-09,398
+Chile,2022-10,395
+Chile,2022-11,557
+Chile,2022-12,468
+China,2013-07,1
+China,2019-12,4
+China,2020-01,54
+China,2020-02,95
+China,2020-03,79
+China,2020-04,23
+China,2020-05,8
+China,2020-06,14
+China,2020-07,45
+China,2020-08,26
+China,2020-09,27
+China,2020-10,28
+China,2020-11,57
+China,2020-12,61
+China,2021-01,47
+China,2021-02,12
+China,2021-03,32
+China,2021-04,51
+China,2021-05,28
+China,2021-06,57
+China,2021-07,66
+China,2021-08,67
+China,2021-09,63
+China,2021-10,48
+China,2021-11,83
+China,2021-12,93
+China,2022-01,130
+China,2022-02,113
+China,2022-03,162
+China,2022-04,217
+China,2022-05,326
+China,2022-06,232
+China,2022-07,222
+China,2022-08,225
+China,2022-09,245
+China,2022-10,255
+China,2022-11,303
+China,2022-12,863
+Colombia,2020-03,12
+Colombia,2020-04,18
+Colombia,2020-05,10
+Colombia,2020-06,2
+Colombia,2020-07,6
+Colombia,2020-08,4
+Colombia,2020-09,1
+Colombia,2020-10,6
+Colombia,2020-11,16
+Colombia,2020-12,33
+Colombia,2021-01,26
+Colombia,2021-02,5
+Colombia,2021-03,22
+Colombia,2021-04,137
+Colombia,2021-05,68
+Colombia,2021-06,97
+Colombia,2021-07,158
+Colombia,2021-08,157
+Colombia,2021-09,122
+Colombia,2021-10,71
+Colombia,2021-11,43
+Colombia,2021-12,27
+Colombia,2022-01,34
+Colombia,2022-02,8
+Colombia,2022-03,19
+Colombia,2022-04,42
+Colombia,2022-05,62
+Colombia,2022-06,140
+Colombia,2022-07,108
+Colombia,2022-08,94
+Colombia,2022-09,31
+Colombia,2022-10,46
+Colombia,2022-11,66
+Colombia,2022-12,89
+Comoros,2021-10,4
+Comoros,2021-11,1
+Comoros,2021-12,1
+Comoros,2022-06,1
+Comoros,2022-07,4
+Congo,2020-06,2
+Congo,2020-07,1
+Congo,2020-12,14
+Congo,2021-01,13
+Congo,2021-02,20
+Congo,2021-03,4
+Congo,2021-04,5
+Congo,2021-05,15
+Congo,2021-06,15
+Congo,2021-07,7
+Congo,2021-08,6
+Congo,2021-09,14
+Congo,2021-10,13
+Congo,2021-11,5
+Congo,2021-12,5
+Congo,2022-02,1
+Congo,2022-05,1
+Congo,2022-06,5
+Congo,2022-07,5
+Congo,2022-08,4
+Congo,2022-09,3
+Congo,2022-10,1
+Cook Islands,2022-02,2
+Cook Islands,2022-03,6
+Cook Islands,2022-04,2
+Costa Rica,2020-03,7
+Costa Rica,2020-05,2
+Costa Rica,2020-06,8
+Costa Rica,2020-07,16
+Costa Rica,2020-08,4
+Costa Rica,2020-09,5
+Costa Rica,2020-10,6
+Costa Rica,2020-11,13
+Costa Rica,2020-12,26
+Costa Rica,2021-01,41
+Costa Rica,2021-02,59
+Costa Rica,2021-03,70
+Costa Rica,2021-04,63
+Costa Rica,2021-05,36
+Costa Rica,2021-06,44
+Costa Rica,2021-07,63
+Costa Rica,2021-08,86
+Costa Rica,2021-09,80
+Costa Rica,2021-10,116
+Costa Rica,2021-11,107
+Costa Rica,2021-12,97
+Costa Rica,2022-01,63
+Costa Rica,2022-02,89
+Costa Rica,2022-03,79
+Costa Rica,2022-04,69
+Costa Rica,2022-05,125
+Costa Rica,2022-06,207
+Costa Rica,2022-07,180
+Costa Rica,2022-08,192
+Costa Rica,2022-09,142
+Costa Rica,2022-10,175
+Costa Rica,2022-11,196
+Costa Rica,2022-12,193
+Cote d'Ivoire,2020-12,8
+Cote d'Ivoire,2021-01,7
+Cote d'Ivoire,2021-02,42
+Cote d'Ivoire,2021-03,42
+Cote d'Ivoire,2021-04,3
+Cote d'Ivoire,2021-05,1
+Cote d'Ivoire,2021-07,8
+Cote d'Ivoire,2021-08,24
+Cote d'Ivoire,2021-09,3
+Cote d'Ivoire,2021-10,2
+Cote d'Ivoire,2021-11,2
+Cote d'Ivoire,2021-12,7
+Cote d'Ivoire,2022-01,1
+Cote d'Ivoire,2022-03,1
+Cote d'Ivoire,2022-06,10
+Cote d'Ivoire,2022-07,12
+Cote d'Ivoire,2022-08,6
+Cote d'Ivoire,2022-10,1
+Cote d'Ivoire,2022-11,1
+Crimea,2020-03,1
+Crimea,2020-09,1
+Crimea,2020-10,3
+Crimea,2021-02,1
+Crimea,2021-07,3
+Crimea,2021-10,23
+Crimea,2021-12,7
+Crimea,2022-07,1
+Crimea,2022-08,29
+Crimea,2022-09,25
+Crimea,2022-10,22
+Crimea,2022-11,15
+Crimea,2022-12,8
+Croatia,2020-03,7
+Croatia,2020-04,3
+Croatia,2020-08,5
+Croatia,2020-09,14
+Croatia,2020-10,3
+Croatia,2020-11,9
+Croatia,2020-12,2
+Croatia,2021-01,46
+Croatia,2021-02,206
+Croatia,2021-03,254
+Croatia,2021-04,348
+Croatia,2021-05,248
+Croatia,2021-06,112
+Croatia,2021-07,20
+Croatia,2021-08,7
+Croatia,2021-09,71
+Croatia,2021-10,313
+Croatia,2021-11,421
+Croatia,2021-12,952
+Croatia,2022-01,487
+Croatia,2022-02,215
+Croatia,2022-03,91
+Croatia,2022-04,18
+Croatia,2022-05,2
+Croatia,2022-06,4
+Croatia,2022-07,3
+Croatia,2022-08,2
+Croatia,2022-09,19
+Croatia,2022-10,141
+Croatia,2022-11,186
+Croatia,2022-12,171
+Cuba,2020-03,2
+Curacao,2020-03,1
+Curacao,2020-08,1
+Curacao,2020-10,3
+Curacao,2020-11,4
+Curacao,2020-12,5
+Curacao,2021-01,11
+Curacao,2021-02,12
+Curacao,2021-03,14
+Curacao,2021-04,30
+Curacao,2021-05,12
+Curacao,2021-06,11
+Curacao,2021-07,27
+Curacao,2021-08,26
+Curacao,2021-09,27
+Curacao,2021-10,29
+Curacao,2021-11,25
+Curacao,2021-12,47
+Curacao,2022-01,41
+Curacao,2022-02,27
+Curacao,2022-03,18
+Curacao,2022-04,19
+Curacao,2022-05,33
+Curacao,2022-06,34
+Curacao,2022-07,28
+Curacao,2022-08,22
+Curacao,2022-09,23
+Curacao,2022-10,27
+Curacao,2022-11,19
+Curacao,2022-12,21
+Cyprus,2020-03,1
+Cyprus,2020-04,11
+Cyprus,2020-05,4
+Cyprus,2020-06,5
+Cyprus,2020-07,6
+Cyprus,2020-08,12
+Cyprus,2020-09,10
+Cyprus,2020-10,13
+Cyprus,2020-11,25
+Cyprus,2020-12,41
+Cyprus,2021-01,71
+Cyprus,2021-02,26
+Cyprus,2021-03,25
+Cyprus,2021-04,33
+Cyprus,2021-05,61
+Cyprus,2021-06,8
+Cyprus,2021-07,12
+Cyprus,2021-08,22
+Cyprus,2021-09,99
+Cyprus,2021-10,9
+Cyprus,2021-11,13
+Cyprus,2021-12,60
+Cyprus,2022-01,28
+Cyprus,2022-02,4
+Cyprus,2022-03,4
+Cyprus,2022-06,30
+Cyprus,2022-07,36
+Czechia,2020-02,1
+Czechia,2020-03,17
+Czechia,2020-04,13
+Czechia,2020-05,4
+Czechia,2020-06,6
+Czechia,2020-07,13
+Czechia,2020-08,12
+Czechia,2020-09,17
+Czechia,2020-10,100
+Czechia,2020-11,92
+Czechia,2020-12,106
+Czechia,2021-01,185
+Czechia,2021-02,284
+Czechia,2021-03,277
+Czechia,2021-04,311
+Czechia,2021-05,157
+Czechia,2021-06,98
+Czechia,2021-07,71
+Czechia,2021-08,114
+Czechia,2021-09,202
+Czechia,2021-10,379
+Czechia,2021-11,428
+Czechia,2021-12,511
+Czechia,2022-01,307
+Czechia,2022-02,152
+Czechia,2022-03,213
+Czechia,2022-04,162
+Czechia,2022-05,71
+Czechia,2022-06,74
+Czechia,2022-07,99
+Czechia,2022-08,127
+Czechia,2022-09,124
+Czechia,2022-10,147
+Czechia,2022-11,120
+Czechia,2022-12,66
+Democratic Republic of Congo,2020-03,8
+Democratic Republic of Congo,2020-04,21
+Democratic Republic of Congo,2020-05,45
+Democratic Republic of Congo,2021-03,3
+Democratic Republic of Congo,2021-04,1
+Democratic Republic of Congo,2021-05,3
+Democratic Republic of Congo,2021-06,10
+Democratic Republic of Congo,2021-07,14
+Democratic Republic of Congo,2021-08,13
+Democratic Republic of Congo,2021-09,1
+Democratic Republic of Congo,2021-10,7
+Democratic Republic of Congo,2021-11,14
+Democratic Republic of Congo,2021-12,10
+Democratic Republic of Congo,2022-01,1
+Democratic Republic of Congo,2022-02,3
+Democratic Republic of Congo,2022-03,3
+Democratic Republic of Congo,2022-04,3
+Democratic Republic of Congo,2022-05,9
+Democratic Republic of Congo,2022-06,10
+Democratic Republic of Congo,2022-07,6
+Democratic Republic of Congo,2022-08,2
+Democratic Republic of Congo,2022-10,2
+Democratic Republic of Congo,2022-12,1
+Denmark,2020-02,2
+Denmark,2020-03,64
+Denmark,2020-04,60
+Denmark,2020-05,34
+Denmark,2020-06,38
+Denmark,2020-07,41
+Denmark,2020-08,183
+Denmark,2020-09,199
+Denmark,2020-10,356
+Denmark,2020-11,730
+Denmark,2020-12,1079
+Denmark,2021-01,985
+Denmark,2021-02,559
+Denmark,2021-03,729
+Denmark,2021-04,799
+Denmark,2021-05,973
+Denmark,2021-06,393
+Denmark,2021-07,1665
+Denmark,2021-08,2795
+Denmark,2021-09,1435
+Denmark,2021-10,2366
+Denmark,2021-11,4414
+Denmark,2021-12,4644
+Denmark,2022-01,5138
+Denmark,2022-02,5833
+Denmark,2022-03,6763
+Denmark,2022-04,5411
+Denmark,2022-05,2507
+Denmark,2022-06,3003
+Denmark,2022-07,2566
+Denmark,2022-08,2348
+Denmark,2022-09,2359
+Denmark,2022-10,3200
+Denmark,2022-11,1969
+Denmark,2022-12,2107
+Djibouti,2020-04,1
+Djibouti,2020-05,5
+Djibouti,2020-06,3
+Djibouti,2020-07,3
+Djibouti,2020-10,1
+Djibouti,2020-11,3
+Djibouti,2020-12,3
+Djibouti,2021-01,4
+Djibouti,2021-02,7
+Djibouti,2021-03,13
+Djibouti,2021-04,10
+Djibouti,2021-05,2
+Djibouti,2021-06,1
+Djibouti,2021-08,2
+Djibouti,2021-09,9
+Djibouti,2021-10,5
+Djibouti,2021-11,1
+Djibouti,2021-12,8
+Djibouti,2022-01,13
+Djibouti,2022-02,6
+Djibouti,2022-04,3
+Djibouti,2022-05,14
+Djibouti,2022-06,10
+Djibouti,2022-07,13
+Djibouti,2022-08,6
+Djibouti,2022-09,9
+Djibouti,2022-10,8
+Djibouti,2022-11,8
+Djibouti,2022-12,1
+Dominica,2022-02,1
+Dominica,2022-03,4
+Dominica,2022-04,1
+Dominica,2022-05,3
+Dominican Republic,2020-03,1
+Dominican Republic,2020-05,2
+Dominican Republic,2020-09,3
+Dominican Republic,2020-10,4
+Dominican Republic,2020-11,10
+Dominican Republic,2020-12,4
+Dominican Republic,2021-01,18
+Dominican Republic,2021-02,20
+Dominican Republic,2021-03,43
+Dominican Republic,2021-04,10
+Dominican Republic,2021-05,72
+Dominican Republic,2021-06,6
+Dominican Republic,2021-07,12
+Dominican Republic,2021-10,123
+Dominican Republic,2021-11,61
+Dominican Republic,2021-12,89
+Dominican Republic,2022-01,9
+Dominican Republic,2022-02,3
+Dominican Republic,2022-03,1
+Dominican Republic,2022-04,6
+Dominican Republic,2022-05,28
+Dominican Republic,2022-06,25
+Dominican Republic,2022-07,53
+Dominican Republic,2022-08,54
+Dominican Republic,2022-09,35
+Dominican Republic,2022-10,22
+Dominican Republic,2022-11,48
+Dominican Republic,2022-12,12
+Ecuador,2020-03,13
+Ecuador,2020-04,3
+Ecuador,2020-05,4
+Ecuador,2020-06,2
+Ecuador,2020-07,6
+Ecuador,2020-08,5
+Ecuador,2020-09,34
+Ecuador,2020-10,25
+Ecuador,2020-11,11
+Ecuador,2020-12,28
+Ecuador,2021-01,20
+Ecuador,2021-02,7
+Ecuador,2021-03,14
+Ecuador,2021-04,32
+Ecuador,2021-05,93
+Ecuador,2021-06,121
+Ecuador,2021-07,194
+Ecuador,2021-08,135
+Ecuador,2021-09,103
+Ecuador,2021-10,34
+Ecuador,2021-11,65
+Ecuador,2021-12,55
+Ecuador,2022-01,44
+Ecuador,2022-02,32
+Ecuador,2022-03,26
+Ecuador,2022-04,6
+Ecuador,2022-05,44
+Ecuador,2022-06,81
+Ecuador,2022-07,119
+Ecuador,2022-08,125
+Ecuador,2022-09,36
+Ecuador,2022-10,24
+Ecuador,2022-11,40
+Ecuador,2022-12,96
+Egypt,2020-03,1
+Egypt,2020-04,6
+Egypt,2020-05,30
+Egypt,2020-06,71
+Egypt,2020-07,52
+Egypt,2020-08,19
+Egypt,2020-09,9
+Egypt,2020-10,11
+Egypt,2020-11,7
+Egypt,2020-12,49
+Egypt,2021-01,64
+Egypt,2021-02,14
+Egypt,2021-03,51
+Egypt,2021-04,30
+Egypt,2021-05,65
+Egypt,2021-06,7
+Egypt,2021-08,3
+Egypt,2021-09,18
+Egypt,2021-10,61
+Egypt,2021-11,6
+Egypt,2021-12,60
+Egypt,2022-01,13
+Egypt,2022-02,10
+Egypt,2022-03,8
+Egypt,2022-05,14
+Egypt,2022-06,36
+Egypt,2022-07,73
+Egypt,2022-08,57
+Egypt,2022-09,28
+Egypt,2022-10,23
+Egypt,2022-11,49
+Egypt,2022-12,31
+El Salvador,2020-09,2
+El Salvador,2020-10,3
+El Salvador,2021-04,32
+El Salvador,2021-05,9
+El Salvador,2021-06,4
+El Salvador,2021-07,37
+El Salvador,2021-08,11
+El Salvador,2021-11,34
+El Salvador,2021-12,20
+El Salvador,2022-01,58
+El Salvador,2022-04,4
+El Salvador,2022-05,23
+El Salvador,2022-06,13
+El Salvador,2022-07,35
+El Salvador,2022-08,4
+El Salvador,2022-11,26
+El Salvador,2022-12,6
+Equatorial Guinea,2020-04,1
+Equatorial Guinea,2020-05,1
+Equatorial Guinea,2020-06,2
+Equatorial Guinea,2020-07,1
+Equatorial Guinea,2020-12,4
+Equatorial Guinea,2021-01,3
+Equatorial Guinea,2021-02,5
+Equatorial Guinea,2021-03,2
+Equatorial Guinea,2021-04,1
+Equatorial Guinea,2021-08,2
+Equatorial Guinea,2021-11,1
+Equatorial Guinea,2021-12,2
+Equatorial Guinea,2022-01,2
+Estonia,2020-03,7
+Estonia,2020-09,20
+Estonia,2020-10,20
+Estonia,2020-11,13
+Estonia,2020-12,9
+Estonia,2021-01,19
+Estonia,2021-02,103
+Estonia,2021-03,256
+Estonia,2021-04,179
+Estonia,2021-05,82
+Estonia,2021-06,42
+Estonia,2021-07,15
+Estonia,2021-08,5
+Estonia,2021-09,25
+Estonia,2021-10,166
+Estonia,2021-11,199
+Estonia,2021-12,205
+Estonia,2022-01,113
+Estonia,2022-02,51
+Estonia,2022-03,15
+Estonia,2022-04,1
+Estonia,2022-05,1
+Estonia,2022-06,1
+Estonia,2022-08,1
+Eswatini,2021-07,7
+Eswatini,2021-08,7
+Eswatini,2021-10,2
+Eswatini,2021-11,3
+Eswatini,2021-12,8
+Eswatini,2022-01,1
+Eswatini,2022-02,3
+Eswatini,2022-03,2
+Eswatini,2022-04,20
+Eswatini,2022-05,19
+Eswatini,2022-06,4
+Eswatini,2022-07,1
+Eswatini,2022-08,1
+Eswatini,2022-11,10
+Eswatini,2022-12,1
+Ethiopia,2020-11,3
+Ethiopia,2020-12,2
+Ethiopia,2021-01,6
+Ethiopia,2021-02,11
+Ethiopia,2021-05,3
+Ethiopia,2021-06,1
+Ethiopia,2021-07,26
+Ethiopia,2021-08,3
+Ethiopia,2021-12,11
+Ethiopia,2022-01,10
+Ethiopia,2022-02,3
+Ethiopia,2022-06,5
+Ethiopia,2022-07,3
+Faroe Islands,2020-03,2
+Faroe Islands,2020-07,1
+Faroe Islands,2020-08,2
+Faroe Islands,2020-09,1
+Faroe Islands,2021-01,1
+Faroe Islands,2021-02,1
+Faroe Islands,2021-03,1
+Fiji,2020-03,1
+Fiji,2020-04,2
+Fiji,2020-11,2
+Fiji,2020-12,1
+Fiji,2021-01,1
+Fiji,2021-02,1
+Fiji,2021-03,1
+Fiji,2021-04,1
+Fiji,2021-06,11
+Fiji,2021-07,3
+Finland,2020-03,31
+Finland,2020-04,34
+Finland,2020-05,26
+Finland,2020-06,5
+Finland,2020-08,12
+Finland,2020-09,34
+Finland,2020-10,52
+Finland,2020-11,40
+Finland,2020-12,72
+Finland,2021-01,283
+Finland,2021-02,354
+Finland,2021-03,469
+Finland,2021-04,282
+Finland,2021-05,239
+Finland,2021-06,292
+Finland,2021-07,503
+Finland,2021-08,558
+Finland,2021-09,326
+Finland,2021-10,248
+Finland,2021-11,308
+Finland,2021-12,456
+Finland,2022-01,469
+Finland,2022-02,317
+Finland,2022-03,347
+Finland,2022-04,292
+Finland,2022-05,314
+Finland,2022-06,306
+Finland,2022-07,323
+Finland,2022-08,278
+Finland,2022-09,158
+Finland,2022-10,171
+Finland,2022-11,343
+Finland,2022-12,379
+France,2020-01,17
+France,2020-02,3
+France,2020-03,180
+France,2020-04,164
+France,2020-05,31
+France,2020-06,16
+France,2020-07,29
+France,2020-08,96
+France,2020-09,176
+France,2020-10,240
+France,2020-11,245
+France,2020-12,201
+France,2021-01,737
+France,2021-02,876
+France,2021-03,1798
+France,2021-04,1656
+France,2021-05,1178
+France,2021-06,948
+France,2021-07,2615
+France,2021-08,2512
+France,2021-09,1501
+France,2021-10,2503
+France,2021-11,4735
+France,2021-12,4574
+France,2022-01,2290
+France,2022-02,2646
+France,2022-03,2917
+France,2022-04,3089
+France,2022-05,3392
+France,2022-06,3169
+France,2022-07,3095
+France,2022-08,2491
+France,2022-09,2589
+France,2022-10,2948
+France,2022-11,2545
+France,2022-12,3632
+French Guiana,2020-03,1
+French Guiana,2020-04,2
+French Guiana,2020-05,3
+French Guiana,2020-06,5
+French Guiana,2020-07,2
+French Guiana,2020-09,1
+French Guiana,2020-12,2
+French Guiana,2021-01,24
+French Guiana,2021-02,11
+French Guiana,2021-03,9
+French Guiana,2021-04,15
+French Guiana,2021-05,10
+French Guiana,2021-06,10
+French Guiana,2021-07,49
+French Guiana,2021-08,70
+French Guiana,2021-09,104
+French Guiana,2021-10,58
+French Guiana,2021-11,40
+French Guiana,2021-12,51
+French Guiana,2022-01,6
+French Guiana,2022-02,3
+French Guiana,2022-03,1
+French Guiana,2022-04,3
+French Guiana,2022-05,8
+French Guiana,2022-06,9
+French Guiana,2022-07,19
+French Guiana,2022-08,4
+French Guiana,2022-09,6
+French Guiana,2022-10,8
+French Guiana,2022-11,6
+French Guiana,2022-12,12
+French Polynesia,2020-12,7
+French Polynesia,2021-01,6
+French Polynesia,2021-02,1
+French Polynesia,2021-03,4
+French Polynesia,2021-04,3
+French Polynesia,2021-05,1
+French Polynesia,2021-06,6
+French Polynesia,2021-07,10
+French Polynesia,2021-08,5
+French Polynesia,2021-09,5
+French Polynesia,2021-10,7
+French Polynesia,2021-11,2
+French Polynesia,2021-12,8
+Gabon,2020-03,4
+Gabon,2020-04,6
+Gabon,2020-05,10
+Gabon,2020-06,10
+Gabon,2020-07,9
+Gabon,2020-08,7
+Gabon,2020-09,2
+Gabon,2020-10,1
+Gabon,2020-11,1
+Gabon,2020-12,1
+Gabon,2021-01,9
+Gabon,2021-02,25
+Gabon,2021-03,33
+Gabon,2021-04,26
+Gabon,2021-05,14
+Gabon,2021-06,5
+Gabon,2021-07,2
+Gabon,2021-08,2
+Gabon,2021-09,8
+Gabon,2021-10,6
+Gambia,2020-03,3
+Gambia,2020-04,1
+Gambia,2020-05,1
+Gambia,2020-06,3
+Gambia,2020-07,17
+Gambia,2020-08,6
+Gambia,2020-09,4
+Gambia,2020-10,1
+Gambia,2020-12,1
+Gambia,2021-01,3
+Gambia,2021-02,4
+Gambia,2021-03,17
+Gambia,2021-04,4
+Gambia,2021-05,2
+Gambia,2021-08,1
+Gambia,2021-12,1
+Gambia,2022-01,1
+Gambia,2022-02,2
+Gambia,2022-06,1
+Gambia,2022-07,16
+Gambia,2022-08,22
+Gambia,2022-09,8
+Georgia,2020-02,2
+Georgia,2020-03,4
+Georgia,2020-04,2
+Georgia,2020-05,2
+Georgia,2020-06,1
+Georgia,2020-09,1
+Georgia,2020-10,3
+Georgia,2020-11,6
+Georgia,2020-12,4
+Georgia,2021-01,7
+Georgia,2021-02,9
+Georgia,2021-03,7
+Georgia,2021-04,4
+Georgia,2021-05,30
+Georgia,2021-06,20
+Georgia,2021-07,19
+Georgia,2021-08,27
+Georgia,2021-09,33
+Georgia,2021-10,75
+Georgia,2021-11,75
+Georgia,2021-12,82
+Georgia,2022-01,29
+Georgia,2022-02,2
+Georgia,2022-03,5
+Georgia,2022-04,12
+Georgia,2022-05,5
+Georgia,2022-06,42
+Georgia,2022-07,52
+Georgia,2022-08,52
+Georgia,2022-09,45
+Georgia,2022-10,45
+Georgia,2022-11,30
+Georgia,2022-12,3
+Germany,2020-01,3
+Germany,2020-02,7
+Germany,2020-03,128
+Germany,2020-04,78
+Germany,2020-05,28
+Germany,2020-06,59
+Germany,2020-07,33
+Germany,2020-08,113
+Germany,2020-09,112
+Germany,2020-10,152
+Germany,2020-11,255
+Germany,2020-12,331
+Germany,2021-01,1195
+Germany,2021-02,1973
+Germany,2021-03,2737
+Germany,2021-04,3358
+Germany,2021-05,3085
+Germany,2021-06,1151
+Germany,2021-07,815
+Germany,2021-08,2834
+Germany,2021-09,3924
+Germany,2021-10,3538
+Germany,2021-11,5171
+Germany,2021-12,5476
+Germany,2022-01,3561
+Germany,2022-02,3736
+Germany,2022-03,4308
+Germany,2022-04,3663
+Germany,2022-05,3777
+Germany,2022-06,3122
+Germany,2022-07,2706
+Germany,2022-08,2688
+Germany,2022-09,2790
+Germany,2022-10,3633
+Germany,2022-11,3167
+Germany,2022-12,3073
+Ghana,2020-03,4
+Ghana,2020-05,1
+Ghana,2020-07,3
+Ghana,2020-08,1
+Ghana,2020-09,2
+Ghana,2020-10,3
+Ghana,2020-11,9
+Ghana,2020-12,16
+Ghana,2021-01,42
+Ghana,2021-02,50
+Ghana,2021-03,32
+Ghana,2021-04,23
+Ghana,2021-05,27
+Ghana,2021-06,19
+Ghana,2021-07,42
+Ghana,2021-08,14
+Ghana,2021-09,59
+Ghana,2021-10,41
+Ghana,2021-11,32
+Ghana,2021-12,26
+Ghana,2022-01,7
+Ghana,2022-02,5
+Ghana,2022-05,1
+Ghana,2022-06,29
+Ghana,2022-07,13
+Ghana,2022-08,1
+Ghana,2022-09,20
+Ghana,2022-10,22
+Gibraltar,2020-07,3
+Gibraltar,2020-08,2
+Gibraltar,2020-10,37
+Gibraltar,2020-12,28
+Gibraltar,2021-01,8
+Gibraltar,2021-02,32
+Gibraltar,2021-03,28
+Gibraltar,2021-04,1
+Gibraltar,2021-07,37
+Gibraltar,2021-08,53
+Gibraltar,2021-09,10
+Gibraltar,2021-10,20
+Gibraltar,2021-11,61
+Gibraltar,2021-12,60
+Greece,2020-02,1
+Greece,2020-03,17
+Greece,2020-04,3
+Greece,2020-05,2
+Greece,2020-07,2
+Greece,2020-08,7
+Greece,2020-09,14
+Greece,2020-10,44
+Greece,2020-11,79
+Greece,2020-12,90
+Greece,2021-01,53
+Greece,2021-02,124
+Greece,2021-03,239
+Greece,2021-04,307
+Greece,2021-05,333
+Greece,2021-06,80
+Greece,2021-07,79
+Greece,2021-08,5
+Greece,2021-09,233
+Greece,2021-10,92
+Greece,2021-11,460
+Greece,2021-12,302
+Greece,2022-01,93
+Greece,2022-02,311
+Greece,2022-03,127
+Greece,2022-04,205
+Greece,2022-05,51
+Greece,2022-06,9
+Greece,2022-07,2
+Greece,2022-08,70
+Greece,2022-09,267
+Greece,2022-10,358
+Greece,2022-11,319
+Greece,2022-12,178
+Grenada,2021-02,2
+Grenada,2021-09,6
+Grenada,2021-10,2
+Grenada,2021-12,4
+Grenada,2022-01,8
+Grenada,2022-02,7
+Grenada,2022-03,1
+Grenada,2022-04,1
+Grenada,2022-05,5
+Grenada,2022-06,2
+Grenada,2022-07,3
+Grenada,2022-08,1
+Guadeloupe,2020-03,4
+Guadeloupe,2021-01,18
+Guadeloupe,2021-02,10
+Guadeloupe,2021-03,9
+Guadeloupe,2021-04,2
+Guadeloupe,2021-05,10
+Guadeloupe,2021-06,7
+Guadeloupe,2021-07,38
+Guadeloupe,2021-08,131
+Guadeloupe,2021-09,30
+Guadeloupe,2021-10,12
+Guadeloupe,2021-11,7
+Guadeloupe,2021-12,9
+Guadeloupe,2022-01,19
+Guadeloupe,2022-02,21
+Guadeloupe,2022-03,11
+Guadeloupe,2022-04,12
+Guadeloupe,2022-05,13
+Guadeloupe,2022-06,14
+Guadeloupe,2022-07,12
+Guadeloupe,2022-08,3
+Guadeloupe,2022-09,2
+Guadeloupe,2022-10,7
+Guadeloupe,2022-11,12
+Guadeloupe,2022-12,7
+Guam,2020-03,3
+Guam,2020-11,1
+Guam,2020-12,6
+Guam,2021-01,7
+Guam,2021-02,1
+Guam,2021-05,7
+Guam,2021-07,1
+Guam,2021-10,9
+Guam,2021-11,12
+Guam,2021-12,13
+Guam,2022-01,8
+Guam,2022-02,10
+Guam,2022-03,9
+Guam,2022-04,6
+Guam,2022-05,1
+Guam,2022-06,3
+Guam,2022-07,14
+Guam,2022-08,15
+Guam,2022-09,5
+Guam,2022-10,6
+Guam,2022-11,5
+Guatemala,2020-03,2
+Guatemala,2020-05,3
+Guatemala,2020-06,5
+Guatemala,2020-07,6
+Guatemala,2020-08,3
+Guatemala,2020-09,1
+Guatemala,2020-10,1
+Guatemala,2020-11,3
+Guatemala,2021-01,2
+Guatemala,2021-02,5
+Guatemala,2021-03,7
+Guatemala,2021-04,17
+Guatemala,2021-05,17
+Guatemala,2021-06,79
+Guatemala,2021-07,85
+Guatemala,2021-08,55
+Guatemala,2021-09,101
+Guatemala,2021-10,49
+Guatemala,2021-11,32
+Guatemala,2021-12,100
+Guatemala,2022-01,35
+Guatemala,2022-02,14
+Guatemala,2022-03,29
+Guatemala,2022-04,34
+Guatemala,2022-05,40
+Guatemala,2022-06,57
+Guatemala,2022-07,110
+Guatemala,2022-08,101
+Guatemala,2022-09,35
+Guatemala,2022-10,28
+Guatemala,2022-11,113
+Guatemala,2022-12,171
+Guinea-Bissau,2020-03,2
+Guinea-Bissau,2020-04,1
+Guinea-Bissau,2020-05,3
+Guinea-Bissau,2021-01,3
+Guinea-Bissau,2021-02,4
+Guinea-Bissau,2022-01,1
+Guinea,2020-03,1
+Guinea,2020-04,1
+Guinea,2020-05,1
+Guinea,2020-06,3
+Guinea,2020-07,2
+Guinea,2020-08,19
+Guinea,2020-09,3
+Guinea,2020-10,9
+Guinea,2020-11,7
+Guinea,2020-12,6
+Guinea,2021-01,5
+Guinea,2021-02,4
+Guinea,2021-03,23
+Guinea,2021-04,5
+Guinea,2021-05,5
+Guinea,2021-06,6
+Guinea,2021-07,17
+Guinea,2021-08,17
+Guinea,2021-09,2
+Guinea,2021-11,4
+Guinea,2021-12,8
+Guinea,2022-01,9
+Guinea,2022-03,1
+Guinea,2022-06,4
+Guinea,2022-07,5
+Guinea,2022-08,5
+Guinea,2022-09,1
+Guyana,2021-09,31
+Guyana,2021-10,1
+Guyana,2022-01,21
+Guyana,2022-02,10
+Guyana,2022-11,2
+Haiti,2020-03,1
+Haiti,2020-04,1
+Haiti,2020-05,25
+Haiti,2020-06,7
+Haiti,2020-07,2
+Haiti,2020-08,2
+Haiti,2020-09,2
+Haiti,2020-10,4
+Haiti,2020-11,4
+Haiti,2020-12,10
+Haiti,2021-01,4
+Haiti,2021-02,5
+Haiti,2021-04,5
+Haiti,2021-05,55
+Haiti,2021-06,1
+Haiti,2021-07,5
+Haiti,2021-08,5
+Haiti,2021-10,3
+Haiti,2021-11,2
+Haiti,2022-01,7
+Haiti,2022-02,8
+Haiti,2022-03,1
+Haiti,2022-04,1
+Haiti,2022-05,13
+Haiti,2022-06,11
+Haiti,2022-07,15
+Haiti,2022-08,7
+Haiti,2022-09,1
+Honduras,2021-01,8
+Honduras,2021-02,10
+Honduras,2021-03,1
+Honduras,2021-04,20
+Honduras,2021-05,5
+Honduras,2021-06,12
+Honduras,2021-07,3
+Honduras,2021-08,3
+Honduras,2021-09,11
+Honduras,2021-10,14
+Honduras,2021-11,9
+Honduras,2021-12,20
+Honduras,2022-01,11
+Honduras,2022-04,1
+Honduras,2022-06,1
+Honduras,2022-11,3
+Honduras,2022-12,3
+Hungary,2020-03,7
+Hungary,2020-04,8
+Hungary,2020-05,5
+Hungary,2020-06,7
+Hungary,2020-07,1
+Hungary,2020-08,9
+Hungary,2020-09,11
+Hungary,2020-10,31
+Hungary,2020-12,1
+Hungary,2021-01,13
+Hungary,2021-02,11
+Hungary,2021-05,1
+Hungary,2021-11,30
+Hungary,2021-12,30
+Hungary,2022-01,15
+Hungary,2022-02,14
+Hungary,2022-03,4
+Hungary,2022-05,11
+Hungary,2022-06,10
+Hungary,2022-07,7
+Hungary,2022-08,9
+Hungary,2022-09,7
+Hungary,2022-10,34
+Hungary,2022-11,26
+Hungary,2022-12,19
+Iceland,2020-02,1
+Iceland,2020-03,62
+Iceland,2020-04,31
+Iceland,2020-07,3
+Iceland,2020-08,31
+Iceland,2020-09,39
+Iceland,2020-10,88
+Iceland,2020-11,53
+Iceland,2020-12,60
+Iceland,2021-01,73
+Iceland,2021-02,10
+Iceland,2021-03,24
+Iceland,2021-04,26
+Iceland,2021-05,16
+Iceland,2021-06,17
+Iceland,2021-07,46
+Iceland,2021-08,121
+Iceland,2021-12,21
+Iceland,2022-01,15
+Iceland,2022-02,9
+Iceland,2022-03,1
+Iceland,2022-04,3
+Iceland,2022-06,107
+Iceland,2022-07,129
+Iceland,2022-08,130
+Iceland,2022-09,104
+Iceland,2022-10,105
+Iceland,2022-11,136
+Iceland,2022-12,97
+India,2020-01,2
+India,2020-03,60
+India,2020-04,98
+India,2020-05,265
+India,2020-06,296
+India,2020-07,228
+India,2020-08,347
+India,2020-09,348
+India,2020-10,273
+India,2020-11,294
+India,2020-12,920
+India,2021-01,743
+India,2021-02,843
+India,2021-03,1141
+India,2021-04,1367
+India,2021-05,986
+India,2021-06,1358
+India,2021-07,902
+India,2021-08,1098
+India,2021-09,1606
+India,2021-10,1734
+India,2021-11,1298
+India,2021-12,1882
+India,2022-01,1292
+India,2022-02,1430
+India,2022-03,251
+India,2022-04,317
+India,2022-05,348
+India,2022-06,1012
+India,2022-07,1088
+India,2022-08,722
+India,2022-09,697
+India,2022-10,363
+India,2022-11,131
+India,2022-12,175
+Indonesia,2020-03,11
+Indonesia,2020-04,20
+Indonesia,2020-05,12
+Indonesia,2020-06,16
+Indonesia,2020-07,19
+Indonesia,2020-08,23
+Indonesia,2020-09,20
+Indonesia,2020-10,40
+Indonesia,2020-11,70
+Indonesia,2020-12,126
+Indonesia,2021-01,331
+Indonesia,2021-02,218
+Indonesia,2021-03,206
+Indonesia,2021-04,165
+Indonesia,2021-05,278
+Indonesia,2021-06,421
+Indonesia,2021-07,453
+Indonesia,2021-08,386
+Indonesia,2021-09,233
+Indonesia,2021-10,167
+Indonesia,2021-11,117
+Indonesia,2021-12,185
+Indonesia,2022-01,382
+Indonesia,2022-02,308
+Indonesia,2022-03,330
+Indonesia,2022-04,143
+Indonesia,2022-05,108
+Indonesia,2022-06,470
+Indonesia,2022-07,572
+Indonesia,2022-08,682
+Indonesia,2022-09,611
+Indonesia,2022-10,801
+Indonesia,2022-11,784
+Indonesia,2022-12,231
+Iran,2020-02,5
+Iran,2020-03,41
+Iran,2020-04,33
+Iran,2020-05,28
+Iran,2020-06,36
+Iran,2020-07,4
+Iran,2020-08,18
+Iran,2020-09,12
+Iran,2020-10,22
+Iran,2020-11,22
+Iran,2020-12,20
+Iran,2021-01,34
+Iran,2021-02,8
+Iran,2021-03,6
+Iran,2021-04,25
+Iran,2021-05,10
+Iran,2021-06,23
+Iran,2021-07,25
+Iran,2021-08,32
+Iran,2021-09,26
+Iran,2021-10,6
+Iran,2021-11,36
+Iran,2021-12,25
+Iran,2022-01,61
+Iran,2022-02,169
+Iran,2022-03,33
+Iran,2022-04,29
+Iran,2022-05,33
+Iran,2022-06,34
+Iran,2022-07,74
+Iran,2022-08,81
+Iran,2022-09,11
+Iran,2022-10,16
+Iran,2022-11,8
+Iran,2022-12,51
+Iraq,2020-06,3
+Iraq,2020-10,2
+Iraq,2020-12,2
+Iraq,2021-01,4
+Iraq,2021-02,27
+Iraq,2021-03,6
+Iraq,2021-04,6
+Iraq,2021-05,4
+Iraq,2021-06,1
+Iraq,2021-07,11
+Iraq,2021-08,4
+Iraq,2021-09,5
+Iraq,2021-10,4
+Iraq,2021-11,8
+Iraq,2021-12,20
+Iraq,2022-01,13
+Iraq,2022-02,2
+Iraq,2022-03,2
+Iraq,2022-05,1
+Iraq,2022-06,2
+Iraq,2022-08,1
+Iraq,2022-09,2
+Iraq,2022-11,4
+Ireland,2020-03,28
+Ireland,2020-04,49
+Ireland,2020-05,26
+Ireland,2020-06,4
+Ireland,2020-07,13
+Ireland,2020-08,16
+Ireland,2020-09,30
+Ireland,2020-10,32
+Ireland,2020-11,39
+Ireland,2020-12,46
+Ireland,2021-01,144
+Ireland,2021-02,307
+Ireland,2021-03,277
+Ireland,2021-04,276
+Ireland,2021-05,266
+Ireland,2021-06,184
+Ireland,2021-07,412
+Ireland,2021-08,654
+Ireland,2021-09,646
+Ireland,2021-10,710
+Ireland,2021-11,599
+Ireland,2021-12,612
+Ireland,2022-01,421
+Ireland,2022-02,188
+Ireland,2022-03,408
+Ireland,2022-04,216
+Ireland,2022-05,195
+Ireland,2022-06,249
+Ireland,2022-07,193
+Ireland,2022-08,177
+Ireland,2022-09,155
+Ireland,2022-10,212
+Ireland,2022-11,143
+Ireland,2022-12,229
+Israel,2020-02,2
+Israel,2020-03,32
+Israel,2020-04,24
+Israel,2020-05,2
+Israel,2020-06,8
+Israel,2020-07,14
+Israel,2020-08,3
+Israel,2020-09,6
+Israel,2020-10,4
+Israel,2020-12,218
+Israel,2021-01,457
+Israel,2021-02,342
+Israel,2021-03,265
+Israel,2021-04,200
+Israel,2021-05,67
+Israel,2021-06,130
+Israel,2021-07,333
+Israel,2021-08,650
+Israel,2021-09,394
+Israel,2021-10,644
+Israel,2021-11,713
+Israel,2021-12,634
+Israel,2022-01,210
+Israel,2022-02,355
+Israel,2022-03,771
+Israel,2022-04,793
+Israel,2022-05,1031
+Israel,2022-06,1196
+Israel,2022-07,1873
+Israel,2022-08,939
+Israel,2022-09,817
+Israel,2022-10,741
+Israel,2022-11,679
+Israel,2022-12,589
+Italy,2020-01,1
+Italy,2020-02,17
+Italy,2020-03,71
+Italy,2020-04,86
+Italy,2020-05,23
+Italy,2020-06,26
+Italy,2020-07,31
+Italy,2020-08,49
+Italy,2020-09,66
+Italy,2020-10,127
+Italy,2020-11,163
+Italy,2020-12,325
+Italy,2021-01,511
+Italy,2021-02,919
+Italy,2021-03,1280
+Italy,2021-04,1114
+Italy,2021-05,988
+Italy,2021-06,812
+Italy,2021-07,1102
+Italy,2021-08,1239
+Italy,2021-09,1215
+Italy,2021-10,1073
+Italy,2021-11,1360
+Italy,2021-12,1752
+Italy,2022-01,978
+Italy,2022-02,395
+Italy,2022-03,639
+Italy,2022-04,585
+Italy,2022-05,772
+Italy,2022-06,717
+Italy,2022-07,820
+Italy,2022-08,620
+Italy,2022-09,564
+Italy,2022-10,800
+Italy,2022-11,906
+Italy,2022-12,996
+Jamaica,2020-03,4
+Jamaica,2021-01,2
+Jamaica,2021-02,19
+Jamaica,2021-03,12
+Jamaica,2021-04,6
+Jamaica,2021-05,33
+Jamaica,2021-07,23
+Jamaica,2021-08,26
+Jamaica,2021-09,3
+Jamaica,2021-10,24
+Jamaica,2021-11,50
+Jamaica,2021-12,57
+Jamaica,2022-01,11
+Jamaica,2022-02,11
+Jamaica,2022-03,10
+Jamaica,2022-04,35
+Jamaica,2022-05,77
+Jamaica,2022-06,80
+Jamaica,2022-07,60
+Jamaica,2022-08,52
+Jamaica,2022-09,92
+Jamaica,2022-10,21
+Jamaica,2022-11,21
+Jamaica,2022-12,19
+Japan,2020-01,2
+Japan,2020-02,18
+Japan,2020-03,44
+Japan,2020-04,205
+Japan,2020-05,63
+Japan,2020-06,54
+Japan,2020-07,194
+Japan,2020-08,253
+Japan,2020-09,165
+Japan,2020-10,169
+Japan,2020-11,355
+Japan,2020-12,539
+Japan,2021-01,797
+Japan,2021-02,446
+Japan,2021-03,524
+Japan,2021-04,1143
+Japan,2021-05,1436
+Japan,2021-06,834
+Japan,2021-07,1438
+Japan,2021-08,3135
+Japan,2021-09,1797
+Japan,2021-10,387
+Japan,2021-11,168
+Japan,2021-12,263
+Japan,2022-01,1536
+Japan,2022-02,1527
+Japan,2022-03,1899
+Japan,2022-04,1969
+Japan,2022-05,2087
+Japan,2022-06,1625
+Japan,2022-07,3260
+Japan,2022-08,3354
+Japan,2022-09,2820
+Japan,2022-10,2582
+Japan,2022-11,3925
+Japan,2022-12,5312
+Jordan,2020-03,5
+Jordan,2020-04,2
+Jordan,2020-06,3
+Jordan,2020-07,1
+Jordan,2020-08,8
+Jordan,2020-09,21
+Jordan,2020-10,60
+Jordan,2020-11,22
+Jordan,2020-12,2
+Jordan,2021-01,15
+Jordan,2021-02,9
+Jordan,2021-03,24
+Jordan,2021-04,18
+Jordan,2021-05,11
+Jordan,2021-06,11
+Jordan,2021-07,3
+Jordan,2021-08,7
+Jordan,2021-09,18
+Jordan,2021-10,8
+Jordan,2021-11,11
+Jordan,2021-12,23
+Jordan,2022-01,9
+Jordan,2022-03,8
+Jordan,2022-05,2
+Jordan,2022-07,4
+Kazakhstan,2020-03,6
+Kazakhstan,2020-04,8
+Kazakhstan,2020-05,2
+Kazakhstan,2020-06,4
+Kazakhstan,2020-08,1
+Kazakhstan,2020-11,5
+Kazakhstan,2020-12,18
+Kazakhstan,2021-01,10
+Kazakhstan,2021-02,17
+Kazakhstan,2021-03,26
+Kazakhstan,2021-04,24
+Kazakhstan,2021-05,1
+Kazakhstan,2021-06,1
+Kazakhstan,2021-08,54
+Kazakhstan,2021-09,21
+Kazakhstan,2021-11,33
+Kazakhstan,2021-12,10
+Kazakhstan,2022-01,51
+Kazakhstan,2022-02,1
+Kazakhstan,2022-03,5
+Kazakhstan,2022-04,12
+Kazakhstan,2022-05,4
+Kazakhstan,2022-06,11
+Kazakhstan,2022-07,52
+Kazakhstan,2022-08,63
+Kazakhstan,2022-09,5
+Kazakhstan,2022-10,59
+Kazakhstan,2022-11,2
+Kazakhstan,2022-12,4
+Kenya,2020-03,4
+Kenya,2020-04,4
+Kenya,2020-05,26
+Kenya,2020-06,31
+Kenya,2020-07,31
+Kenya,2020-08,27
+Kenya,2020-09,33
+Kenya,2020-10,102
+Kenya,2020-11,125
+Kenya,2020-12,50
+Kenya,2021-01,33
+Kenya,2021-02,35
+Kenya,2021-03,77
+Kenya,2021-04,93
+Kenya,2021-05,71
+Kenya,2021-06,103
+Kenya,2021-07,47
+Kenya,2021-08,99
+Kenya,2021-09,62
+Kenya,2021-10,34
+Kenya,2021-11,25
+Kenya,2021-12,97
+Kenya,2022-01,45
+Kenya,2022-02,8
+Kenya,2022-03,3
+Kenya,2022-04,8
+Kenya,2022-05,17
+Kenya,2022-06,109
+Kenya,2022-07,49
+Kenya,2022-08,16
+Kenya,2022-09,10
+Kenya,2022-10,32
+Kenya,2022-11,52
+Kenya,2022-12,9
+Kiribati,2022-01,2
+Kiribati,2022-03,1
+Kiribati,2022-04,1
+Kiribati,2022-06,6
+Kiribati,2022-07,4
+Kiribati,2022-08,7
+Kosovo,2020-07,5
+Kosovo,2020-12,6
+Kosovo,2021-01,12
+Kosovo,2021-04,1
+Kosovo,2021-05,8
+Kosovo,2021-06,6
+Kosovo,2021-07,13
+Kosovo,2021-08,2
+Kosovo,2021-10,32
+Kosovo,2021-11,25
+Kosovo,2021-12,19
+Kosovo,2022-01,13
+Kosovo,2022-02,5
+Kosovo,2022-04,1
+Kosovo,2022-07,1
+Kuwait,2020-02,1
+Kuwait,2020-03,4
+Kuwait,2020-04,4
+Kuwait,2020-05,4
+Kuwait,2020-06,4
+Kuwait,2020-07,3
+Kuwait,2020-08,3
+Kuwait,2020-09,2
+Kuwait,2020-10,5
+Kuwait,2020-11,4
+Kuwait,2020-12,2
+Kuwait,2021-01,3
+Kuwait,2021-02,9
+Kuwait,2021-06,25
+Kuwait,2021-07,12
+Kuwait,2021-08,9
+Kuwait,2021-10,1
+Kuwait,2022-01,4
+Kuwait,2022-02,2
+Kuwait,2022-03,4
+Kuwait,2022-04,3
+Kuwait,2022-05,20
+Kuwait,2022-06,19
+Kuwait,2022-07,15
+Kuwait,2022-08,1
+Kuwait,2022-09,23
+Kuwait,2022-10,39
+Kuwait,2022-11,2
+Kuwait,2022-12,9
+Kyrgyzstan,2020-04,1
+Kyrgyzstan,2020-05,2
+Kyrgyzstan,2020-06,8
+Kyrgyzstan,2020-07,6
+Kyrgyzstan,2020-11,2
+Kyrgyzstan,2021-04,1
+Kyrgyzstan,2021-05,5
+Kyrgyzstan,2021-06,3
+Kyrgyzstan,2021-07,27
+Kyrgyzstan,2021-08,7
+Kyrgyzstan,2021-11,3
+Kyrgyzstan,2021-12,2
+Laos,2020-07,1
+Laos,2021-07,5
+Laos,2021-08,23
+Laos,2021-09,15
+Laos,2021-10,22
+Laos,2021-11,31
+Laos,2021-12,10
+Laos,2022-01,10
+Laos,2022-02,24
+Laos,2022-03,23
+Laos,2022-04,20
+Laos,2022-05,2
+Laos,2022-06,1
+Laos,2022-07,2
+Laos,2022-08,11
+Laos,2022-09,14
+Laos,2022-10,6
+Laos,2022-11,17
+Laos,2022-12,8
+Latvia,2020-03,7
+Latvia,2020-04,5
+Latvia,2020-05,3
+Latvia,2020-06,1
+Latvia,2020-07,5
+Latvia,2020-08,8
+Latvia,2020-09,30
+Latvia,2020-10,36
+Latvia,2020-11,2
+Latvia,2020-12,32
+Latvia,2021-01,64
+Latvia,2021-02,147
+Latvia,2021-03,236
+Latvia,2021-04,228
+Latvia,2021-05,186
+Latvia,2021-06,94
+Latvia,2021-07,81
+Latvia,2021-08,106
+Latvia,2021-09,119
+Latvia,2021-10,204
+Latvia,2021-11,318
+Latvia,2021-12,335
+Latvia,2022-01,217
+Latvia,2022-02,145
+Latvia,2022-03,66
+Latvia,2022-04,39
+Latvia,2022-05,95
+Latvia,2022-06,101
+Latvia,2022-07,124
+Latvia,2022-08,201
+Latvia,2022-09,310
+Latvia,2022-10,197
+Latvia,2022-11,145
+Latvia,2022-12,59
+Lebanon,2020-01,8
+Lebanon,2020-02,1
+Lebanon,2020-03,5
+Lebanon,2020-04,3
+Lebanon,2020-05,2
+Lebanon,2020-06,4
+Lebanon,2020-07,8
+Lebanon,2020-08,10
+Lebanon,2020-09,11
+Lebanon,2020-10,13
+Lebanon,2020-11,17
+Lebanon,2020-12,34
+Lebanon,2021-01,45
+Lebanon,2021-02,38
+Lebanon,2021-03,44
+Lebanon,2021-04,46
+Lebanon,2021-05,16
+Lebanon,2021-06,6
+Lebanon,2021-07,25
+Lebanon,2021-08,46
+Lebanon,2021-09,42
+Lebanon,2021-10,29
+Lebanon,2021-11,63
+Lebanon,2021-12,69
+Lebanon,2022-01,56
+Lebanon,2022-02,22
+Lebanon,2022-03,3
+Lebanon,2022-06,9
+Lebanon,2022-07,11
+Lebanon,2022-08,22
+Lebanon,2022-09,5
+Lebanon,2022-10,2
+Lebanon,2022-11,5
+Lebanon,2022-12,1
+Lesotho,2021-01,1
+Lesotho,2021-08,2
+Lesotho,2021-09,1
+Lesotho,2021-10,1
+Lesotho,2021-12,1
+Lesotho,2022-01,2
+Lesotho,2022-06,2
+Liberia,2021-03,4
+Liberia,2021-04,8
+Liberia,2021-05,14
+Liberia,2021-06,12
+Liberia,2021-07,5
+Liberia,2021-12,1
+Libya,2020-05,3
+Libya,2020-06,14
+Libya,2021-01,1
+Libya,2021-02,23
+Libya,2021-03,10
+Libya,2021-05,1
+Libya,2021-06,5
+Libya,2021-12,1
+Libya,2022-02,1
+Libya,2022-03,1
+Libya,2022-04,2
+Libya,2022-05,3
+Libya,2022-06,1
+Libya,2022-07,5
+Liechtenstein,2020-12,2
+Liechtenstein,2021-01,2
+Liechtenstein,2021-02,3
+Liechtenstein,2021-04,4
+Liechtenstein,2021-05,4
+Liechtenstein,2021-06,1
+Liechtenstein,2021-07,1
+Liechtenstein,2021-08,1
+Liechtenstein,2021-09,6
+Liechtenstein,2021-10,3
+Liechtenstein,2021-11,43
+Liechtenstein,2021-12,57
+Liechtenstein,2022-01,8
+Liechtenstein,2022-02,18
+Liechtenstein,2022-03,23
+Liechtenstein,2022-04,9
+Liechtenstein,2022-05,24
+Liechtenstein,2022-06,21
+Liechtenstein,2022-07,17
+Liechtenstein,2022-08,26
+Liechtenstein,2022-09,36
+Liechtenstein,2022-10,26
+Liechtenstein,2022-11,31
+Liechtenstein,2022-12,34
+Lithuania,2020-02,1
+Lithuania,2020-03,2
+Lithuania,2020-04,8
+Lithuania,2020-05,5
+Lithuania,2020-06,1
+Lithuania,2020-07,4
+Lithuania,2020-08,5
+Lithuania,2020-09,10
+Lithuania,2020-10,3
+Lithuania,2020-11,16
+Lithuania,2020-12,67
+Lithuania,2021-01,61
+Lithuania,2021-02,227
+Lithuania,2021-03,308
+Lithuania,2021-04,435
+Lithuania,2021-05,423
+Lithuania,2021-06,232
+Lithuania,2021-07,95
+Lithuania,2021-08,88
+Lithuania,2021-09,196
+Lithuania,2021-10,339
+Lithuania,2021-11,519
+Lithuania,2021-12,660
+Lithuania,2022-01,253
+Lithuania,2022-02,141
+Lithuania,2022-03,242
+Lithuania,2022-04,300
+Lithuania,2022-10,7
+Lithuania,2022-11,94
+Lithuania,2022-12,101
+Luxembourg,2020-02,1
+Luxembourg,2020-03,14
+Luxembourg,2020-04,13
+Luxembourg,2020-05,4
+Luxembourg,2020-06,2
+Luxembourg,2020-07,4
+Luxembourg,2020-08,7
+Luxembourg,2020-09,15
+Luxembourg,2020-10,109
+Luxembourg,2020-11,140
+Luxembourg,2020-12,166
+Luxembourg,2021-01,147
+Luxembourg,2021-02,143
+Luxembourg,2021-03,182
+Luxembourg,2021-04,281
+Luxembourg,2021-05,170
+Luxembourg,2021-06,53
+Luxembourg,2021-07,52
+Luxembourg,2021-08,8
+Luxembourg,2021-09,3
+Luxembourg,2021-10,23
+Luxembourg,2021-11,2
+Luxembourg,2021-12,9
+Luxembourg,2022-01,11
+Luxembourg,2022-02,64
+Luxembourg,2022-03,175
+Luxembourg,2022-04,298
+Luxembourg,2022-05,389
+Luxembourg,2022-06,327
+Luxembourg,2022-07,405
+Luxembourg,2022-08,527
+Luxembourg,2022-09,342
+Luxembourg,2022-10,394
+Luxembourg,2022-11,196
+Luxembourg,2022-12,162
+Madagascar,2020-03,3
+Madagascar,2020-04,3
+Madagascar,2020-05,4
+Madagascar,2020-06,5
+Madagascar,2020-07,17
+Madagascar,2020-08,13
+Madagascar,2020-09,10
+Madagascar,2020-10,8
+Madagascar,2020-11,14
+Madagascar,2020-12,13
+Madagascar,2021-01,21
+Madagascar,2021-02,16
+Madagascar,2021-03,18
+Madagascar,2021-04,14
+Madagascar,2021-05,12
+Madagascar,2021-07,20
+Madagascar,2021-09,1
+Madagascar,2021-10,1
+Madagascar,2021-11,1
+Madagascar,2021-12,6
+Madagascar,2022-01,1
+Malawi,2020-04,1
+Malawi,2020-05,3
+Malawi,2020-06,6
+Malawi,2020-07,1
+Malawi,2020-08,1
+Malawi,2020-09,1
+Malawi,2020-12,1
+Malawi,2021-01,10
+Malawi,2021-02,3
+Malawi,2021-03,1
+Malawi,2021-04,1
+Malawi,2021-05,3
+Malawi,2021-06,10
+Malawi,2021-07,20
+Malawi,2021-08,6
+Malawi,2021-09,10
+Malawi,2021-10,1
+Malawi,2021-12,6
+Malawi,2022-01,5
+Malawi,2022-06,1
+Malawi,2022-08,2
+Malawi,2022-10,1
+Malawi,2022-11,3
+Malawi,2022-12,2
+Malaysia,2020-01,1
+Malaysia,2020-02,3
+Malaysia,2020-03,13
+Malaysia,2020-04,21
+Malaysia,2020-05,6
+Malaysia,2020-06,4
+Malaysia,2020-07,4
+Malaysia,2020-08,2
+Malaysia,2020-09,6
+Malaysia,2020-10,20
+Malaysia,2020-11,12
+Malaysia,2020-12,26
+Malaysia,2021-01,51
+Malaysia,2021-02,38
+Malaysia,2021-03,50
+Malaysia,2021-04,81
+Malaysia,2021-05,56
+Malaysia,2021-06,53
+Malaysia,2021-07,111
+Malaysia,2021-08,296
+Malaysia,2021-09,365
+Malaysia,2021-10,318
+Malaysia,2021-11,401
+Malaysia,2021-12,393
+Malaysia,2022-01,291
+Malaysia,2022-02,187
+Malaysia,2022-03,447
+Malaysia,2022-04,379
+Malaysia,2022-05,293
+Malaysia,2022-06,375
+Malaysia,2022-07,541
+Malaysia,2022-08,425
+Malaysia,2022-09,343
+Malaysia,2022-10,373
+Malaysia,2022-11,484
+Malaysia,2022-12,265
+Maldives,2020-04,1
+Maldives,2020-05,2
+Maldives,2020-06,1
+Maldives,2020-07,1
+Maldives,2020-08,2
+Maldives,2020-09,1
+Maldives,2020-11,1
+Maldives,2021-01,2
+Maldives,2021-02,1
+Mali,2020-03,2
+Mali,2020-04,4
+Mali,2020-06,2
+Mali,2021-01,5
+Mali,2021-03,2
+Mali,2021-04,13
+Mali,2021-05,7
+Mali,2021-06,1
+Mali,2021-07,5
+Mali,2021-08,9
+Mali,2021-09,3
+Mali,2021-10,10
+Mali,2021-12,1
+Mali,2022-01,1
+Mali,2022-02,2
+Mali,2022-09,2
+Malta,2020-08,1
+Malta,2020-09,2
+Malta,2021-04,10
+Malta,2021-05,15
+Malta,2021-06,1
+Malta,2021-12,1
+Malta,2022-01,2
+Marshall Islands,2022-07,4
+Marshall Islands,2022-08,3
+Marshall Islands,2022-09,1
+Marshall Islands,2022-10,2
+Martinique,2021-01,5
+Martinique,2021-02,5
+Martinique,2021-04,1
+Martinique,2021-05,5
+Martinique,2021-06,6
+Martinique,2021-07,38
+Martinique,2021-08,82
+Martinique,2021-09,25
+Martinique,2021-10,34
+Martinique,2021-11,29
+Martinique,2021-12,34
+Martinique,2022-01,20
+Martinique,2022-02,26
+Martinique,2022-03,29
+Martinique,2022-04,39
+Martinique,2022-05,30
+Martinique,2022-06,29
+Martinique,2022-07,12
+Martinique,2022-08,11
+Martinique,2022-09,4
+Martinique,2022-10,8
+Martinique,2022-11,23
+Martinique,2022-12,29
+Mauritania,2021-02,2
+Mauritania,2021-03,4
+Mauritania,2021-04,4
+Mauritania,2021-05,14
+Mauritania,2021-06,2
+Mauritania,2021-08,1
+Mauritania,2021-09,4
+Mauritania,2021-10,6
+Mauritania,2021-11,1
+Mauritius,2020-06,4
+Mauritius,2020-07,12
+Mauritius,2020-11,1
+Mauritius,2020-12,1
+Mauritius,2021-01,6
+Mauritius,2021-02,3
+Mauritius,2021-03,6
+Mauritius,2021-04,2
+Mauritius,2021-05,12
+Mauritius,2021-06,11
+Mauritius,2021-07,13
+Mauritius,2021-08,5
+Mauritius,2021-09,11
+Mauritius,2021-10,24
+Mauritius,2021-11,19
+Mauritius,2021-12,28
+Mauritius,2022-01,47
+Mauritius,2022-02,87
+Mauritius,2022-03,77
+Mauritius,2022-04,107
+Mauritius,2022-05,171
+Mauritius,2022-06,63
+Mauritius,2022-07,74
+Mauritius,2022-08,102
+Mauritius,2022-09,107
+Mauritius,2022-10,74
+Mauritius,2022-11,69
+Mauritius,2022-12,90
+Mayotte,2021-01,59
+Mayotte,2021-02,2
+Mayotte,2021-04,2
+Mayotte,2021-05,1
+Mayotte,2021-07,3
+Mayotte,2021-08,9
+Mayotte,2021-09,1
+Mayotte,2021-10,6
+Mayotte,2021-11,6
+Mayotte,2021-12,12
+Mayotte,2022-01,13
+Mayotte,2022-02,3
+Mayotte,2022-03,3
+Mayotte,2022-04,3
+Mayotte,2022-05,1
+Mayotte,2022-06,6
+Mayotte,2022-07,23
+Mayotte,2022-08,15
+Mayotte,2022-09,1
+Mayotte,2022-11,4
+Mexico,2020-02,1
+Mexico,2020-03,7
+Mexico,2020-04,57
+Mexico,2020-05,99
+Mexico,2020-06,120
+Mexico,2020-07,127
+Mexico,2020-08,132
+Mexico,2020-09,95
+Mexico,2020-10,83
+Mexico,2020-11,189
+Mexico,2020-12,244
+Mexico,2021-01,268
+Mexico,2021-02,620
+Mexico,2021-03,718
+Mexico,2021-04,717
+Mexico,2021-05,839
+Mexico,2021-06,1002
+Mexico,2021-07,1084
+Mexico,2021-08,1209
+Mexico,2021-09,1589
+Mexico,2021-10,1188
+Mexico,2021-11,1016
+Mexico,2021-12,1033
+Mexico,2022-01,789
+Mexico,2022-02,397
+Mexico,2022-03,178
+Mexico,2022-04,149
+Mexico,2022-05,406
+Mexico,2022-06,749
+Mexico,2022-07,810
+Mexico,2022-08,792
+Mexico,2022-09,359
+Mexico,2022-10,209
+Mexico,2022-11,321
+Mexico,2022-12,709
+Micronesia,2022-07,2
+Micronesia,2022-10,2
+Micronesia,2022-12,2
+Moldova,2020-03,2
+Moldova,2020-06,4
+Moldova,2020-09,5
+Moldova,2021-01,1
+Moldova,2021-02,3
+Moldova,2021-03,4
+Moldova,2021-04,3
+Moldova,2021-05,1
+Moldova,2021-06,5
+Moldova,2021-07,1
+Moldova,2021-08,5
+Moldova,2021-09,19
+Moldova,2021-10,2
+Moldova,2021-11,37
+Moldova,2021-12,15
+Moldova,2022-01,22
+Moldova,2022-02,10
+Moldova,2022-03,10
+Moldova,2022-04,13
+Moldova,2022-05,5
+Moldova,2022-06,11
+Moldova,2022-07,1
+Moldova,2022-08,22
+Moldova,2022-09,9
+Moldova,2022-10,3
+Moldova,2022-11,6
+Moldova,2022-12,11
+Monaco,2021-01,1
+Monaco,2021-02,5
+Monaco,2021-04,1
+Monaco,2021-05,1
+Monaco,2021-06,11
+Monaco,2021-07,14
+Monaco,2021-08,8
+Monaco,2021-09,2
+Monaco,2021-10,2
+Monaco,2022-02,4
+Monaco,2022-05,2
+Mongolia,2020-02,1
+Mongolia,2020-03,4
+Mongolia,2020-04,3
+Mongolia,2020-05,4
+Mongolia,2020-06,1
+Mongolia,2020-07,2
+Mongolia,2020-08,1
+Mongolia,2020-09,1
+Mongolia,2020-10,6
+Mongolia,2020-11,10
+Mongolia,2020-12,6
+Mongolia,2021-01,6
+Mongolia,2021-02,6
+Mongolia,2021-03,14
+Mongolia,2021-04,55
+Mongolia,2021-05,35
+Mongolia,2021-06,33
+Mongolia,2021-07,86
+Mongolia,2021-08,76
+Mongolia,2021-09,34
+Mongolia,2021-10,20
+Mongolia,2021-11,15
+Mongolia,2021-12,30
+Mongolia,2022-01,9
+Mongolia,2022-02,8
+Mongolia,2022-03,9
+Mongolia,2022-04,7
+Mongolia,2022-05,15
+Mongolia,2022-06,16
+Mongolia,2022-07,16
+Mongolia,2022-08,26
+Mongolia,2022-09,37
+Mongolia,2022-10,36
+Mongolia,2022-11,34
+Mongolia,2022-12,20
+Montenegro,2020-03,1
+Montenegro,2020-07,3
+Montenegro,2021-01,10
+Montenegro,2021-06,9
+Montenegro,2021-07,10
+Montenegro,2021-08,9
+Montenegro,2021-10,24
+Montenegro,2021-11,42
+Montenegro,2021-12,54
+Montenegro,2022-01,22
+Montenegro,2022-02,5
+Montenegro,2022-03,2
+Montenegro,2022-07,2
+Montserrat,2021-08,1
+Montserrat,2022-04,2
+Montserrat,2022-05,3
+Morocco,2020-02,8
+Morocco,2020-03,5
+Morocco,2020-04,13
+Morocco,2020-05,20
+Morocco,2020-06,5
+Morocco,2020-07,15
+Morocco,2020-08,11
+Morocco,2020-09,2
+Morocco,2020-10,2
+Morocco,2020-11,17
+Morocco,2020-12,42
+Morocco,2021-01,23
+Morocco,2021-02,10
+Morocco,2021-03,24
+Morocco,2021-04,16
+Morocco,2021-05,23
+Morocco,2021-06,14
+Morocco,2021-07,28
+Morocco,2021-08,2
+Morocco,2021-09,2
+Morocco,2021-10,12
+Morocco,2021-11,2
+Morocco,2021-12,18
+Morocco,2022-01,8
+Morocco,2022-02,13
+Morocco,2022-03,11
+Morocco,2022-04,13
+Morocco,2022-05,6
+Morocco,2022-06,87
+Morocco,2022-07,28
+Morocco,2022-08,19
+Morocco,2022-09,5
+Morocco,2022-10,2
+Morocco,2022-11,11
+Morocco,2022-12,19
+Mozambique,2020-07,2
+Mozambique,2020-08,2
+Mozambique,2020-09,2
+Mozambique,2020-11,10
+Mozambique,2020-12,22
+Mozambique,2021-01,14
+Mozambique,2021-03,3
+Mozambique,2021-04,3
+Mozambique,2021-05,7
+Mozambique,2021-06,46
+Mozambique,2021-07,56
+Mozambique,2021-08,8
+Mozambique,2021-09,15
+Mozambique,2021-10,2
+Mozambique,2021-11,2
+Mozambique,2021-12,6
+Mozambique,2022-01,11
+Mozambique,2022-02,11
+Mozambique,2022-03,3
+Mozambique,2022-05,4
+Mozambique,2022-06,6
+Mozambique,2022-07,10
+Mozambique,2022-08,2
+Myanmar,2020-04,2
+Myanmar,2020-05,2
+Myanmar,2020-08,6
+Myanmar,2020-09,1
+Myanmar,2021-01,4
+Myanmar,2021-05,5
+Myanmar,2021-06,4
+Myanmar,2021-07,2
+Myanmar,2021-08,6
+Myanmar,2021-11,4
+Myanmar,2021-12,7
+Myanmar,2022-01,3
+Myanmar,2022-02,3
+Myanmar,2022-03,7
+Myanmar,2022-07,4
+Myanmar,2022-09,4
+Myanmar,2022-10,6
+Namibia,2021-02,18
+Namibia,2021-03,11
+Namibia,2021-04,10
+Namibia,2021-05,4
+Namibia,2021-06,14
+Namibia,2021-07,8
+Namibia,2021-08,2
+Namibia,2021-09,2
+Namibia,2021-11,1
+Namibia,2021-12,10
+Namibia,2022-01,1
+Namibia,2022-02,4
+Namibia,2022-03,5
+Namibia,2022-04,14
+Namibia,2022-05,18
+Namibia,2022-06,5
+Namibia,2022-07,3
+Nepal,2020-01,1
+Nepal,2020-10,1
+Nepal,2021-01,2
+Nepal,2021-05,20
+Nepal,2021-06,43
+Nepal,2021-07,59
+Nepal,2021-08,172
+Nepal,2021-09,211
+Nepal,2021-10,122
+Nepal,2021-11,52
+Nepal,2021-12,104
+Nepal,2022-01,45
+Nepal,2022-02,11
+Nepal,2022-03,6
+Nepal,2022-04,11
+Nepal,2022-05,22
+Nepal,2022-06,36
+Nepal,2022-07,67
+Nepal,2022-08,63
+Nepal,2022-09,42
+Nepal,2022-10,5
+Nepal,2022-11,1
+Netherlands,2020-01,1
+Netherlands,2020-02,7
+Netherlands,2020-03,91
+Netherlands,2020-04,109
+Netherlands,2020-05,64
+Netherlands,2020-06,40
+Netherlands,2020-07,39
+Netherlands,2020-08,59
+Netherlands,2020-09,80
+Netherlands,2020-10,144
+Netherlands,2020-11,208
+Netherlands,2020-12,408
+Netherlands,2021-01,671
+Netherlands,2021-02,780
+Netherlands,2021-03,1074
+Netherlands,2021-04,1138
+Netherlands,2021-05,1229
+Netherlands,2021-06,867
+Netherlands,2021-07,901
+Netherlands,2021-08,1257
+Netherlands,2021-09,1069
+Netherlands,2021-10,998
+Netherlands,2021-11,1408
+Netherlands,2021-12,1674
+Netherlands,2022-01,926
+Netherlands,2022-02,875
+Netherlands,2022-03,852
+Netherlands,2022-04,850
+Netherlands,2022-05,790
+Netherlands,2022-06,758
+Netherlands,2022-07,859
+Netherlands,2022-08,925
+Netherlands,2022-09,870
+Netherlands,2022-10,1200
+Netherlands,2022-11,1046
+Netherlands,2022-12,1105
+New Caledonia,2022-07,2
+New Caledonia,2022-10,2
+New Caledonia,2022-11,5
+New Caledonia,2022-12,2
+New Zealand,2020-02,1
+New Zealand,2020-03,23
+New Zealand,2020-04,13
+New Zealand,2020-05,2
+New Zealand,2020-06,3
+New Zealand,2020-07,1
+New Zealand,2020-08,5
+New Zealand,2020-09,8
+New Zealand,2020-10,18
+New Zealand,2020-11,19
+New Zealand,2020-12,21
+New Zealand,2021-01,16
+New Zealand,2021-02,10
+New Zealand,2021-03,15
+New Zealand,2021-04,17
+New Zealand,2021-05,7
+New Zealand,2021-06,7
+New Zealand,2021-07,10
+New Zealand,2021-08,16
+New Zealand,2021-09,21
+New Zealand,2021-10,55
+New Zealand,2021-11,88
+New Zealand,2021-12,65
+New Zealand,2022-01,70
+New Zealand,2022-02,47
+New Zealand,2022-03,89
+New Zealand,2022-04,191
+New Zealand,2022-05,226
+New Zealand,2022-06,87
+New Zealand,2022-07,20
+New Zealand,2022-08,41
+New Zealand,2022-09,28
+New Zealand,2022-10,41
+New Zealand,2022-11,74
+New Zealand,2022-12,40
+Nicaragua,2020-03,5
+Nicaragua,2020-04,1
+Nicaragua,2020-05,3
+Nicaragua,2020-06,6
+Nicaragua,2020-07,5
+Nicaragua,2020-08,2
+Nicaragua,2020-09,2
+Nicaragua,2020-10,3
+Nicaragua,2020-11,5
+Nicaragua,2020-12,10
+Nicaragua,2021-01,17
+Nicaragua,2021-02,16
+Nicaragua,2021-03,13
+Nicaragua,2021-04,15
+Nicaragua,2021-05,28
+Nicaragua,2021-06,31
+Nicaragua,2021-07,43
+Nicaragua,2021-08,56
+Nicaragua,2021-09,1
+Nicaragua,2021-10,1
+Nicaragua,2022-07,1
+Nicaragua,2022-08,6
+Nicaragua,2022-09,1
+Nicaragua,2022-10,4
+Nicaragua,2022-11,3
+Nicaragua,2022-12,3
+Niger,2020-01,1
+Niger,2020-03,4
+Niger,2020-04,3
+Niger,2020-05,6
+Niger,2020-06,1
+Niger,2020-11,3
+Niger,2020-12,26
+Niger,2021-01,11
+Niger,2021-02,8
+Niger,2021-03,2
+Niger,2021-04,5
+Niger,2021-05,3
+Niger,2021-07,7
+Niger,2021-11,2
+Niger,2022-01,4
+Niger,2022-02,2
+Niger,2022-03,1
+Niger,2022-04,3
+Niger,2022-08,1
+Nigeria,2020-02,1
+Nigeria,2020-03,3
+Nigeria,2020-04,8
+Nigeria,2020-05,18
+Nigeria,2020-06,15
+Nigeria,2020-07,26
+Nigeria,2020-08,14
+Nigeria,2020-09,10
+Nigeria,2020-10,7
+Nigeria,2020-11,4
+Nigeria,2020-12,34
+Nigeria,2021-01,70
+Nigeria,2021-02,67
+Nigeria,2021-03,29
+Nigeria,2021-04,16
+Nigeria,2021-05,12
+Nigeria,2021-06,7
+Nigeria,2021-07,92
+Nigeria,2021-08,260
+Nigeria,2021-09,140
+Nigeria,2021-10,60
+Nigeria,2021-11,28
+Nigeria,2021-12,63
+Nigeria,2022-01,10
+Nigeria,2022-02,1
+Nigeria,2022-03,3
+Nigeria,2022-05,1
+Nigeria,2022-06,6
+Nigeria,2022-07,13
+Nigeria,2022-08,30
+Nigeria,2022-09,13
+Nigeria,2022-10,1
+Niue,2022-04,1
+North Macedonia,2020-03,1
+North Macedonia,2020-04,1
+North Macedonia,2020-05,1
+North Macedonia,2020-06,16
+North Macedonia,2020-07,6
+North Macedonia,2020-08,5
+North Macedonia,2020-09,7
+North Macedonia,2020-10,15
+North Macedonia,2020-11,14
+North Macedonia,2020-12,18
+North Macedonia,2021-01,48
+North Macedonia,2021-02,29
+North Macedonia,2021-03,20
+North Macedonia,2021-04,38
+North Macedonia,2021-05,7
+North Macedonia,2021-06,6
+North Macedonia,2021-07,18
+North Macedonia,2021-12,24
+North Macedonia,2022-01,12
+North Macedonia,2022-02,8
+North Macedonia,2022-03,4
+North Macedonia,2022-04,11
+North Macedonia,2022-05,1
+North Macedonia,2022-07,18
+North Macedonia,2022-09,4
+North Macedonia,2022-10,15
+North Macedonia,2022-11,22
+North Macedonia,2022-12,12
+Northern Mariana Islands,2020-07,3
+Northern Mariana Islands,2020-08,4
+Northern Mariana Islands,2020-09,2
+Northern Mariana Islands,2020-10,10
+Northern Mariana Islands,2020-11,6
+Northern Mariana Islands,2020-12,5
+Northern Mariana Islands,2021-01,4
+Northern Mariana Islands,2021-03,1
+Northern Mariana Islands,2021-04,1
+Northern Mariana Islands,2021-06,1
+Northern Mariana Islands,2021-07,4
+Northern Mariana Islands,2021-08,4
+Northern Mariana Islands,2021-10,10
+Northern Mariana Islands,2021-11,5
+Northern Mariana Islands,2022-02,8
+Northern Mariana Islands,2022-04,4
+Northern Mariana Islands,2022-05,4
+Northern Mariana Islands,2022-06,7
+Northern Mariana Islands,2022-07,40
+Northern Mariana Islands,2022-08,29
+Northern Mariana Islands,2022-09,2
+Northern Mariana Islands,2022-10,5
+Northern Mariana Islands,2022-12,3
+Norway,2020-01,1
+Norway,2020-02,4
+Norway,2020-03,25
+Norway,2020-04,24
+Norway,2020-05,8
+Norway,2020-06,19
+Norway,2020-07,25
+Norway,2020-08,49
+Norway,2020-09,41
+Norway,2020-10,88
+Norway,2020-11,95
+Norway,2020-12,97
+Norway,2021-01,224
+Norway,2021-02,232
+Norway,2021-03,280
+Norway,2021-04,326
+Norway,2021-05,266
+Norway,2021-06,186
+Norway,2021-07,234
+Norway,2021-08,472
+Norway,2021-09,509
+Norway,2021-10,516
+Norway,2021-11,660
+Norway,2021-12,566
+Norway,2022-01,476
+Norway,2022-02,536
+Norway,2022-03,623
+Norway,2022-04,417
+Norway,2022-05,280
+Norway,2022-06,304
+Norway,2022-07,228
+Norway,2022-08,290
+Norway,2022-09,230
+Norway,2022-10,223
+Norway,2022-11,216
+Norway,2022-12,220
+Oman,2020-02,2
+Oman,2020-03,9
+Oman,2020-04,13
+Oman,2020-05,20
+Oman,2020-06,3
+Oman,2020-07,7
+Oman,2020-08,4
+Oman,2020-09,7
+Oman,2020-10,1
+Oman,2020-11,1
+Oman,2020-12,3
+Oman,2021-01,16
+Oman,2021-02,15
+Oman,2021-03,11
+Oman,2021-04,32
+Oman,2021-05,23
+Oman,2021-06,34
+Oman,2021-07,16
+Oman,2021-08,3
+Oman,2021-09,20
+Oman,2021-10,11
+Oman,2021-11,6
+Oman,2021-12,12
+Oman,2022-01,8
+Oman,2022-03,1
+Oman,2022-06,3
+Pakistan,2020-03,1
+Pakistan,2020-04,1
+Pakistan,2020-05,7
+Pakistan,2020-06,15
+Pakistan,2020-07,6
+Pakistan,2020-08,5
+Pakistan,2020-09,1
+Pakistan,2020-10,3
+Pakistan,2020-11,16
+Pakistan,2020-12,23
+Pakistan,2021-01,12
+Pakistan,2021-02,6
+Pakistan,2021-03,68
+Pakistan,2021-04,62
+Pakistan,2021-05,49
+Pakistan,2021-06,25
+Pakistan,2021-07,68
+Pakistan,2021-08,199
+Pakistan,2021-09,90
+Pakistan,2021-10,28
+Pakistan,2021-11,1
+Pakistan,2021-12,23
+Pakistan,2022-01,9
+Pakistan,2022-02,16
+Pakistan,2022-03,5
+Pakistan,2022-04,2
+Pakistan,2022-05,5
+Pakistan,2022-06,45
+Pakistan,2022-07,59
+Pakistan,2022-08,32
+Pakistan,2022-09,31
+Pakistan,2022-10,30
+Pakistan,2022-11,1
+Pakistan,2022-12,6
+Palau,2021-08,2
+Palau,2021-09,3
+Palau,2022-01,1
+Palau,2022-02,1
+Palau,2022-03,2
+Palau,2022-04,3
+Palau,2022-06,4
+Palau,2022-07,2
+Palau,2022-08,1
+Palau,2022-10,1
+Palau,2022-11,1
+Palestine,2020-03,3
+Palestine,2020-06,2
+Palestine,2020-07,5
+Palestine,2020-08,4
+Palestine,2020-11,17
+Palestine,2021-01,2
+Palestine,2021-02,11
+Palestine,2021-04,14
+Panama,2020-02,3
+Panama,2020-03,34
+Panama,2020-04,30
+Panama,2020-05,15
+Panama,2020-06,17
+Panama,2020-07,24
+Panama,2020-08,31
+Panama,2020-09,9
+Panama,2020-10,15
+Panama,2020-12,27
+Panama,2021-01,29
+Panama,2021-02,18
+Panama,2021-03,92
+Panama,2021-04,99
+Panama,2021-05,84
+Panama,2021-06,82
+Panama,2021-07,123
+Panama,2021-08,106
+Panama,2021-09,84
+Panama,2021-10,82
+Panama,2021-11,102
+Panama,2021-12,198
+Panama,2022-01,169
+Panama,2022-02,101
+Panama,2022-03,78
+Panama,2022-04,74
+Panama,2022-05,102
+Panama,2022-06,127
+Panama,2022-07,37
+Panama,2022-08,72
+Panama,2022-09,53
+Panama,2022-10,22
+Panama,2022-11,136
+Panama,2022-12,101
+Papua New Guinea,2020-07,2
+Papua New Guinea,2020-08,1
+Papua New Guinea,2020-09,2
+Papua New Guinea,2020-10,1
+Papua New Guinea,2020-12,6
+Papua New Guinea,2021-01,3
+Papua New Guinea,2021-02,15
+Papua New Guinea,2021-03,49
+Papua New Guinea,2021-04,40
+Papua New Guinea,2021-05,13
+Papua New Guinea,2021-06,3
+Papua New Guinea,2021-07,8
+Papua New Guinea,2021-08,38
+Papua New Guinea,2021-09,63
+Papua New Guinea,2021-10,73
+Papua New Guinea,2021-11,35
+Papua New Guinea,2021-12,5
+Papua New Guinea,2022-01,18
+Papua New Guinea,2022-02,41
+Papua New Guinea,2022-03,3
+Papua New Guinea,2022-04,3
+Papua New Guinea,2022-05,1
+Papua New Guinea,2022-06,3
+Papua New Guinea,2022-07,19
+Papua New Guinea,2022-08,3
+Papua New Guinea,2022-09,7
+Papua New Guinea,2022-10,23
+Papua New Guinea,2022-11,9
+Papua New Guinea,2022-12,4
+Paraguay,2020-03,4
+Paraguay,2020-04,2
+Paraguay,2020-05,3
+Paraguay,2020-06,2
+Paraguay,2020-07,4
+Paraguay,2020-08,4
+Paraguay,2020-09,2
+Paraguay,2020-10,3
+Paraguay,2020-11,2
+Paraguay,2020-12,1
+Paraguay,2021-01,32
+Paraguay,2021-02,26
+Paraguay,2021-03,28
+Paraguay,2021-04,13
+Paraguay,2021-05,29
+Paraguay,2021-06,22
+Paraguay,2021-07,55
+Paraguay,2021-08,38
+Paraguay,2021-09,5
+Paraguay,2021-11,7
+Paraguay,2021-12,3
+Paraguay,2022-01,13
+Paraguay,2022-02,4
+Paraguay,2022-03,1
+Paraguay,2022-04,1
+Paraguay,2022-05,9
+Paraguay,2022-06,2
+Paraguay,2022-07,27
+Paraguay,2022-08,15
+Paraguay,2022-09,2
+Paraguay,2022-11,13
+Paraguay,2022-12,23
+Peru,2020-03,35
+Peru,2020-04,21
+Peru,2020-05,35
+Peru,2020-06,29
+Peru,2020-07,15
+Peru,2020-08,81
+Peru,2020-09,43
+Peru,2020-10,58
+Peru,2020-11,30
+Peru,2020-12,103
+Peru,2021-01,117
+Peru,2021-02,81
+Peru,2021-03,119
+Peru,2021-04,177
+Peru,2021-05,220
+Peru,2021-06,354
+Peru,2021-07,399
+Peru,2021-08,441
+Peru,2021-09,451
+Peru,2021-10,385
+Peru,2021-11,431
+Peru,2021-12,593
+Peru,2022-01,253
+Peru,2022-02,215
+Peru,2022-03,119
+Peru,2022-04,102
+Peru,2022-05,284
+Peru,2022-06,641
+Peru,2022-07,861
+Peru,2022-08,875
+Peru,2022-09,588
+Peru,2022-10,242
+Peru,2022-11,735
+Peru,2022-12,1127
+Philippines,2020-01,1
+Philippines,2020-03,7
+Philippines,2020-04,3
+Philippines,2020-05,2
+Philippines,2020-06,7
+Philippines,2020-07,22
+Philippines,2020-08,25
+Philippines,2020-09,15
+Philippines,2020-10,11
+Philippines,2020-11,58
+Philippines,2020-12,90
+Philippines,2021-01,181
+Philippines,2021-02,118
+Philippines,2021-03,136
+Philippines,2021-04,86
+Philippines,2021-05,102
+Philippines,2021-06,209
+Philippines,2021-07,377
+Philippines,2021-08,405
+Philippines,2021-09,25
+Philippines,2021-10,5
+Philippines,2021-11,19
+Philippines,2021-12,53
+Philippines,2022-01,312
+Philippines,2022-02,201
+Philippines,2022-03,78
+Philippines,2022-04,34
+Philippines,2022-05,56
+Philippines,2022-06,104
+Philippines,2022-07,199
+Philippines,2022-08,367
+Philippines,2022-09,178
+Philippines,2022-10,198
+Philippines,2022-11,198
+Philippines,2022-12,86
+Poland,2020-01,1
+Poland,2020-03,13
+Poland,2020-04,19
+Poland,2020-05,13
+Poland,2020-06,8
+Poland,2020-08,3
+Poland,2020-09,9
+Poland,2020-10,7
+Poland,2020-11,63
+Poland,2020-12,82
+Poland,2021-01,220
+Poland,2021-02,436
+Poland,2021-03,840
+Poland,2021-04,1057
+Poland,2021-05,919
+Poland,2021-06,236
+Poland,2021-07,66
+Poland,2021-08,237
+Poland,2021-09,377
+Poland,2021-10,869
+Poland,2021-11,1353
+Poland,2021-12,1996
+Poland,2022-01,2241
+Poland,2022-02,848
+Poland,2022-03,225
+Poland,2022-04,99
+Poland,2022-05,83
+Poland,2022-06,79
+Poland,2022-07,147
+Poland,2022-08,273
+Poland,2022-09,200
+Poland,2022-10,175
+Poland,2022-11,75
+Poland,2022-12,91
+Portugal,2020-03,82
+Portugal,2020-04,34
+Portugal,2020-05,5
+Portugal,2020-06,17
+Portugal,2020-07,9
+Portugal,2020-08,1
+Portugal,2020-10,1
+Portugal,2020-11,114
+Portugal,2020-12,74
+Portugal,2021-01,221
+Portugal,2021-02,197
+Portugal,2021-03,191
+Portugal,2021-04,201
+Portugal,2021-05,145
+Portugal,2021-06,227
+Portugal,2021-07,320
+Portugal,2021-08,384
+Portugal,2021-09,300
+Portugal,2021-10,160
+Portugal,2021-11,93
+Portugal,2021-12,316
+Portugal,2022-01,219
+Portugal,2022-02,277
+Portugal,2022-03,306
+Portugal,2022-04,370
+Portugal,2022-05,470
+Portugal,2022-06,350
+Portugal,2022-07,328
+Portugal,2022-08,277
+Portugal,2022-09,343
+Portugal,2022-10,230
+Portugal,2022-11,228
+Portugal,2022-12,218
+Puerto Rico,2020-11,17
+Puerto Rico,2020-12,33
+Puerto Rico,2021-01,32
+Puerto Rico,2021-02,3
+Puerto Rico,2021-03,7
+Puerto Rico,2021-04,30
+Puerto Rico,2021-05,9
+Puerto Rico,2021-06,3
+Puerto Rico,2021-07,61
+Puerto Rico,2021-08,100
+Puerto Rico,2021-09,109
+Puerto Rico,2021-10,31
+Puerto Rico,2021-11,82
+Puerto Rico,2021-12,168
+Puerto Rico,2022-01,127
+Puerto Rico,2022-02,61
+Puerto Rico,2022-03,70
+Puerto Rico,2022-04,111
+Puerto Rico,2022-05,118
+Puerto Rico,2022-06,163
+Puerto Rico,2022-07,100
+Puerto Rico,2022-08,92
+Puerto Rico,2022-09,35
+Puerto Rico,2022-10,53
+Puerto Rico,2022-11,51
+Puerto Rico,2022-12,79
+Qatar,2020-01,1
+Qatar,2020-03,10
+Qatar,2020-04,12
+Qatar,2020-05,44
+Qatar,2020-06,30
+Qatar,2020-07,24
+Qatar,2020-08,13
+Qatar,2020-09,4
+Qatar,2020-10,8
+Qatar,2020-11,3
+Qatar,2020-12,5
+Qatar,2021-01,4
+Qatar,2021-02,20
+Qatar,2021-03,14
+Qatar,2021-04,15
+Qatar,2021-05,35
+Qatar,2021-06,5
+Qatar,2021-07,1
+Qatar,2021-08,125
+Qatar,2021-09,31
+Qatar,2021-10,19
+Qatar,2021-11,47
+Qatar,2021-12,71
+Qatar,2022-01,21
+Qatar,2022-02,1
+Qatar,2022-03,3
+Qatar,2022-04,2
+Qatar,2022-05,7
+Qatar,2022-06,17
+Qatar,2022-07,55
+Qatar,2022-08,73
+Qatar,2022-09,93
+Qatar,2022-10,33
+Reunion,2020-03,2
+Reunion,2021-01,34
+Reunion,2021-02,43
+Reunion,2021-03,19
+Reunion,2021-04,11
+Reunion,2021-05,38
+Reunion,2021-06,46
+Reunion,2021-07,87
+Reunion,2021-08,52
+Reunion,2021-09,21
+Reunion,2021-10,59
+Reunion,2021-11,96
+Reunion,2021-12,111
+Reunion,2022-01,109
+Reunion,2022-02,67
+Reunion,2022-03,72
+Reunion,2022-04,90
+Reunion,2022-05,87
+Reunion,2022-06,126
+Reunion,2022-07,101
+Reunion,2022-08,146
+Reunion,2022-09,148
+Reunion,2022-10,84
+Reunion,2022-11,111
+Reunion,2022-12,137
+Romania,2020-03,3
+Romania,2020-04,16
+Romania,2020-05,14
+Romania,2020-06,7
+Romania,2020-07,24
+Romania,2020-08,23
+Romania,2020-09,30
+Romania,2020-10,26
+Romania,2020-11,69
+Romania,2020-12,72
+Romania,2021-01,115
+Romania,2021-02,109
+Romania,2021-03,171
+Romania,2021-04,108
+Romania,2021-05,86
+Romania,2021-06,74
+Romania,2021-07,72
+Romania,2021-08,194
+Romania,2021-09,441
+Romania,2021-10,324
+Romania,2021-11,149
+Romania,2021-12,196
+Romania,2022-01,166
+Romania,2022-02,195
+Romania,2022-03,117
+Romania,2022-04,58
+Romania,2022-05,72
+Romania,2022-06,60
+Romania,2022-07,134
+Romania,2022-08,186
+Romania,2022-09,100
+Romania,2022-10,93
+Romania,2022-11,80
+Romania,2022-12,72
+Russia,2020-03,14
+Russia,2020-04,25
+Russia,2020-05,40
+Russia,2020-06,61
+Russia,2020-07,50
+Russia,2020-08,82
+Russia,2020-09,180
+Russia,2020-10,147
+Russia,2020-11,214
+Russia,2020-12,157
+Russia,2021-01,81
+Russia,2021-02,171
+Russia,2021-03,186
+Russia,2021-04,248
+Russia,2021-05,220
+Russia,2021-06,183
+Russia,2021-07,270
+Russia,2021-08,340
+Russia,2021-09,139
+Russia,2021-10,707
+Russia,2021-11,423
+Russia,2021-12,1137
+Russia,2022-01,873
+Russia,2022-02,256
+Russia,2022-03,196
+Russia,2022-04,133
+Russia,2022-05,110
+Russia,2022-06,116
+Russia,2022-07,429
+Russia,2022-08,852
+Russia,2022-09,1302
+Russia,2022-10,1176
+Russia,2022-11,927
+Russia,2022-12,390
+Rwanda,2020-06,2
+Rwanda,2020-07,2
+Rwanda,2020-08,13
+Rwanda,2020-09,1
+Rwanda,2020-10,3
+Rwanda,2020-11,2
+Rwanda,2020-12,18
+Rwanda,2021-01,23
+Rwanda,2021-02,14
+Rwanda,2021-03,8
+Rwanda,2021-04,4
+Rwanda,2021-05,4
+Rwanda,2021-06,37
+Rwanda,2021-07,49
+Rwanda,2021-08,16
+Rwanda,2021-09,1
+Rwanda,2021-12,5
+Rwanda,2022-01,17
+Saint Barthelemy,2020-02,1
+Saint Barthelemy,2020-03,1
+Saint Barthelemy,2021-08,3
+Saint Barthelemy,2021-09,2
+Saint Barthelemy,2021-10,3
+Saint Barthelemy,2021-11,2
+Saint Kitts and Nevis,2021-07,1
+Saint Kitts and Nevis,2021-08,3
+Saint Kitts and Nevis,2022-12,1
+Saint Lucia,2021-07,3
+Saint Lucia,2022-03,1
+Saint Lucia,2022-04,2
+Saint Lucia,2022-05,11
+Saint Lucia,2022-06,9
+Saint Lucia,2022-07,17
+Saint Lucia,2022-08,13
+Saint Lucia,2022-09,5
+Saint Lucia,2022-10,10
+Saint Lucia,2022-11,10
+Saint Martin,2020-03,3
+Saint Martin,2020-04,1
+Saint Martin,2021-11,1
+Saint Martin,2021-12,33
+Saint Martin,2022-01,6
+Saint Martin,2022-02,6
+Saint Martin,2022-03,8
+Saint Martin,2022-04,12
+Saint Martin,2022-05,6
+Saint Martin,2022-06,4
+Saint Martin,2022-07,5
+Saint Martin,2022-08,3
+Saint Martin,2022-10,3
+Saint Vincent and the Grenadines,2021-08,2
+Saint Vincent and the Grenadines,2021-09,6
+Saint Vincent and the Grenadines,2021-10,6
+Saint Vincent and the Grenadines,2021-12,4
+Saint Vincent and the Grenadines,2022-01,1
+Saint Vincent and the Grenadines,2022-07,4
+Saint Vincent and the Grenadines,2022-10,1
+Saint Vincent and the Grenadines,2022-11,2
+Saint Vincent and the Grenadines,2022-12,4
+Samoa,2022-03,1
+Samoa,2022-05,6
+Samoa,2022-06,6
+Samoa,2022-07,4
+Sao Tome and Principe,2021-04,1
+Sao Tome and Principe,2021-07,2
+Sao Tome and Principe,2021-12,1
+Saudi Arabia,2020-02,4
+Saudi Arabia,2020-03,20
+Saudi Arabia,2020-04,29
+Saudi Arabia,2020-05,12
+Saudi Arabia,2020-06,43
+Saudi Arabia,2020-07,6
+Saudi Arabia,2020-08,6
+Saudi Arabia,2020-11,2
+Saudi Arabia,2020-12,3
+Saudi Arabia,2021-01,4
+Saudi Arabia,2021-02,26
+Saudi Arabia,2021-04,15
+Saudi Arabia,2021-05,19
+Saudi Arabia,2021-06,8
+Saudi Arabia,2021-07,11
+Saudi Arabia,2021-08,13
+Saudi Arabia,2021-09,7
+Saudi Arabia,2021-11,1
+Saudi Arabia,2021-12,33
+Saudi Arabia,2022-01,28
+Saudi Arabia,2022-02,13
+Saudi Arabia,2022-03,18
+Saudi Arabia,2022-04,9
+Saudi Arabia,2022-05,3
+Saudi Arabia,2022-06,9
+Saudi Arabia,2022-07,13
+Saudi Arabia,2022-08,3
+Saudi Arabia,2022-09,52
+Saudi Arabia,2022-10,12
+Saudi Arabia,2022-11,8
+Saudi Arabia,2022-12,13
+Senegal,2020-02,1
+Senegal,2020-03,20
+Senegal,2020-04,19
+Senegal,2020-05,7
+Senegal,2020-06,53
+Senegal,2020-07,24
+Senegal,2020-08,22
+Senegal,2020-09,18
+Senegal,2020-10,13
+Senegal,2020-11,19
+Senegal,2020-12,89
+Senegal,2021-01,83
+Senegal,2021-02,38
+Senegal,2021-03,91
+Senegal,2021-04,69
+Senegal,2021-05,54
+Senegal,2021-06,22
+Senegal,2021-07,115
+Senegal,2021-08,56
+Senegal,2021-09,6
+Senegal,2021-12,13
+Senegal,2022-01,39
+Senegal,2022-02,15
+Senegal,2022-03,4
+Senegal,2022-05,1
+Senegal,2022-07,14
+Senegal,2022-08,7
+Senegal,2022-09,7
+Senegal,2022-10,4
+Serbia,2020-03,1
+Serbia,2020-04,11
+Serbia,2020-05,5
+Serbia,2020-06,11
+Serbia,2020-07,23
+Serbia,2020-08,11
+Serbia,2020-09,16
+Serbia,2020-10,21
+Serbia,2020-11,13
+Serbia,2020-12,13
+Serbia,2021-01,15
+Serbia,2021-02,12
+Serbia,2021-03,8
+Serbia,2021-04,15
+Serbia,2021-05,19
+Serbia,2021-06,6
+Serbia,2021-07,6
+Serbia,2021-08,7
+Serbia,2021-09,8
+Serbia,2021-10,7
+Serbia,2021-11,18
+Serbia,2021-12,15
+Serbia,2022-01,22
+Serbia,2022-02,7
+Serbia,2022-03,3
+Serbia,2022-04,25
+Serbia,2022-05,49
+Serbia,2022-06,67
+Serbia,2022-07,53
+Serbia,2022-08,1
+Serbia,2022-09,42
+Serbia,2022-10,43
+Serbia,2022-11,73
+Seychelles,2020-10,1
+Seychelles,2021-01,1
+Seychelles,2021-05,3
+Seychelles,2021-10,9
+Seychelles,2021-11,14
+Seychelles,2021-12,21
+Seychelles,2022-01,24
+Seychelles,2022-02,4
+Seychelles,2022-03,5
+Seychelles,2022-04,5
+Seychelles,2022-06,8
+Seychelles,2022-07,3
+Seychelles,2022-08,10
+Seychelles,2022-09,6
+Sierra Leone,2020-01,2
+Sierra Leone,2020-03,1
+Sierra Leone,2020-04,4
+Sierra Leone,2020-12,3
+Sierra Leone,2021-01,20
+Sierra Leone,2021-02,3
+Sierra Leone,2021-06,15
+Singapore,2020-01,4
+Singapore,2020-02,7
+Singapore,2020-03,56
+Singapore,2020-04,74
+Singapore,2020-05,47
+Singapore,2020-06,33
+Singapore,2020-07,26
+Singapore,2020-08,21
+Singapore,2020-09,16
+Singapore,2020-10,39
+Singapore,2020-11,32
+Singapore,2020-12,53
+Singapore,2021-01,68
+Singapore,2021-02,61
+Singapore,2021-03,77
+Singapore,2021-04,169
+Singapore,2021-05,113
+Singapore,2021-06,86
+Singapore,2021-07,165
+Singapore,2021-08,250
+Singapore,2021-09,175
+Singapore,2021-10,250
+Singapore,2021-11,260
+Singapore,2021-12,367
+Singapore,2022-01,251
+Singapore,2022-02,295
+Singapore,2022-03,306
+Singapore,2022-04,283
+Singapore,2022-05,365
+Singapore,2022-06,389
+Singapore,2022-07,435
+Singapore,2022-08,490
+Singapore,2022-09,497
+Singapore,2022-10,546
+Singapore,2022-11,638
+Singapore,2022-12,708
+Sint Eustatius,2020-09,1
+Sint Maarten,2021-01,4
+Sint Maarten,2021-02,17
+Sint Maarten,2021-03,5
+Sint Maarten,2021-04,11
+Sint Maarten,2021-05,25
+Sint Maarten,2021-06,23
+Sint Maarten,2021-07,42
+Sint Maarten,2021-08,85
+Sint Maarten,2021-09,55
+Sint Maarten,2021-10,17
+Sint Maarten,2021-11,21
+Sint Maarten,2021-12,28
+Sint Maarten,2022-01,21
+Sint Maarten,2022-02,16
+Sint Maarten,2022-03,19
+Sint Maarten,2022-04,21
+Sint Maarten,2022-05,13
+Sint Maarten,2022-06,20
+Sint Maarten,2022-07,19
+Sint Maarten,2022-08,12
+Sint Maarten,2022-09,5
+Sint Maarten,2022-10,3
+Sint Maarten,2022-11,5
+Sint Maarten,2022-12,5
+Slovakia,2020-03,3
+Slovakia,2020-04,2
+Slovakia,2020-05,1
+Slovakia,2020-07,1
+Slovakia,2020-08,2
+Slovakia,2020-10,2
+Slovakia,2020-11,16
+Slovakia,2020-12,21
+Slovakia,2021-01,30
+Slovakia,2021-02,66
+Slovakia,2021-03,133
+Slovakia,2021-04,119
+Slovakia,2021-05,73
+Slovakia,2021-06,68
+Slovakia,2021-07,61
+Slovakia,2021-08,168
+Slovakia,2021-09,294
+Slovakia,2021-10,484
+Slovakia,2021-11,621
+Slovakia,2021-12,455
+Slovakia,2022-01,452
+Slovakia,2022-02,330
+Slovakia,2022-03,451
+Slovakia,2022-04,339
+Slovakia,2022-05,190
+Slovakia,2022-06,181
+Slovakia,2022-07,441
+Slovakia,2022-08,423
+Slovakia,2022-09,341
+Slovakia,2022-10,231
+Slovakia,2022-11,139
+Slovakia,2022-12,51
+Slovenia,2020-03,18
+Slovenia,2020-04,12
+Slovenia,2020-05,1
+Slovenia,2020-06,7
+Slovenia,2020-07,25
+Slovenia,2020-08,43
+Slovenia,2020-09,50
+Slovenia,2020-10,110
+Slovenia,2020-11,233
+Slovenia,2020-12,232
+Slovenia,2021-01,242
+Slovenia,2021-02,381
+Slovenia,2021-03,447
+Slovenia,2021-04,501
+Slovenia,2021-05,295
+Slovenia,2021-06,168
+Slovenia,2021-07,198
+Slovenia,2021-08,555
+Slovenia,2021-09,525
+Slovenia,2021-10,959
+Slovenia,2021-11,1221
+Slovenia,2021-12,980
+Slovenia,2022-01,644
+Slovenia,2022-02,401
+Slovenia,2022-03,406
+Slovenia,2022-04,305
+Slovenia,2022-05,207
+Slovenia,2022-06,182
+Slovenia,2022-07,203
+Slovenia,2022-08,278
+Slovenia,2022-09,337
+Slovenia,2022-10,324
+Slovenia,2022-11,289
+Slovenia,2022-12,334
+Solomon Islands,2020-10,2
+Solomon Islands,2020-11,2
+Solomon Islands,2020-12,1
+Solomon Islands,2021-12,1
+Solomon Islands,2022-01,3
+Solomon Islands,2022-02,5
+Solomon Islands,2022-03,15
+Solomon Islands,2022-04,14
+Solomon Islands,2022-05,6
+Solomon Islands,2022-07,2
+Solomon Islands,2022-08,3
+Solomon Islands,2022-09,1
+Solomon Islands,2022-10,2
+Solomon Islands,2022-11,24
+Somalia,2020-04,1
+Somalia,2020-07,1
+Somalia,2020-10,2
+Somalia,2021-02,4
+Somalia,2021-03,1
+Somalia,2021-10,1
+South Africa,2020-03,9
+South Africa,2020-04,16
+South Africa,2020-05,33
+South Africa,2020-06,62
+South Africa,2020-07,206
+South Africa,2020-08,106
+South Africa,2020-09,142
+South Africa,2020-10,139
+South Africa,2020-11,81
+South Africa,2020-12,139
+South Africa,2021-01,77
+South Africa,2021-02,20
+South Africa,2021-03,30
+South Africa,2021-04,38
+South Africa,2021-05,104
+South Africa,2021-06,188
+South Africa,2021-07,180
+South Africa,2021-08,272
+South Africa,2021-09,199
+South Africa,2021-10,89
+South Africa,2021-11,85
+South Africa,2021-12,274
+South Africa,2022-01,200
+South Africa,2022-02,80
+South Africa,2022-03,157
+South Africa,2022-04,289
+South Africa,2022-05,398
+South Africa,2022-06,146
+South Africa,2022-07,111
+South Africa,2022-08,74
+South Africa,2022-09,92
+South Africa,2022-10,141
+South Africa,2022-11,161
+South Africa,2022-12,59
+South Korea,2020-01,2
+South Korea,2020-02,12
+South Korea,2020-03,14
+South Korea,2020-04,4
+South Korea,2020-05,27
+South Korea,2020-06,30
+South Korea,2020-07,54
+South Korea,2020-08,30
+South Korea,2020-09,36
+South Korea,2020-10,48
+South Korea,2020-11,45
+South Korea,2020-12,77
+South Korea,2021-01,111
+South Korea,2021-02,122
+South Korea,2021-03,211
+South Korea,2021-04,330
+South Korea,2021-05,252
+South Korea,2021-06,375
+South Korea,2021-07,731
+South Korea,2021-08,600
+South Korea,2021-09,590
+South Korea,2021-10,689
+South Korea,2021-11,611
+South Korea,2021-12,505
+South Korea,2022-01,392
+South Korea,2022-02,275
+South Korea,2022-03,518
+South Korea,2022-04,617
+South Korea,2022-05,892
+South Korea,2022-06,890
+South Korea,2022-07,782
+South Korea,2022-08,1162
+South Korea,2022-09,1398
+South Korea,2022-10,1306
+South Korea,2022-11,1699
+South Korea,2022-12,1588
+South Sudan,2020-08,1
+South Sudan,2021-01,9
+South Sudan,2021-02,1
+South Sudan,2021-03,7
+South Sudan,2021-04,7
+South Sudan,2021-05,3
+South Sudan,2021-06,4
+South Sudan,2021-07,8
+South Sudan,2021-08,6
+South Sudan,2021-09,5
+South Sudan,2021-10,10
+South Sudan,2021-11,4
+South Sudan,2021-12,1
+Spain,2020-02,8
+Spain,2020-03,114
+Spain,2020-04,77
+Spain,2020-05,24
+Spain,2020-06,21
+Spain,2020-07,29
+Spain,2020-08,64
+Spain,2020-09,148
+Spain,2020-10,126
+Spain,2020-11,122
+Spain,2020-12,353
+Spain,2021-01,695
+Spain,2021-02,999
+Spain,2021-03,908
+Spain,2021-04,1041
+Spain,2021-05,1179
+Spain,2021-06,1200
+Spain,2021-07,1475
+Spain,2021-08,1274
+Spain,2021-09,940
+Spain,2021-10,854
+Spain,2021-11,1245
+Spain,2021-12,1578
+Spain,2022-01,801
+Spain,2022-02,913
+Spain,2022-03,1103
+Spain,2022-04,1190
+Spain,2022-05,1742
+Spain,2022-06,1609
+Spain,2022-07,1660
+Spain,2022-08,1054
+Spain,2022-09,834
+Spain,2022-10,1173
+Spain,2022-11,1206
+Spain,2022-12,1260
+Sri Lanka,2020-03,3
+Sri Lanka,2020-04,4
+Sri Lanka,2020-07,2
+Sri Lanka,2020-10,1
+Sri Lanka,2020-11,1
+Sri Lanka,2020-12,6
+Sri Lanka,2021-01,37
+Sri Lanka,2021-02,31
+Sri Lanka,2021-03,20
+Sri Lanka,2021-04,22
+Sri Lanka,2021-05,15
+Sri Lanka,2021-06,27
+Sri Lanka,2021-07,41
+Sri Lanka,2021-08,50
+Sri Lanka,2021-09,71
+Sri Lanka,2021-10,88
+Sri Lanka,2021-11,94
+Sri Lanka,2021-12,162
+Sri Lanka,2022-01,55
+Sri Lanka,2022-02,39
+Sri Lanka,2022-03,11
+Sri Lanka,2022-04,3
+Sri Lanka,2022-05,2
+Sri Lanka,2022-06,1
+Sri Lanka,2022-07,6
+Sri Lanka,2022-08,6
+Sri Lanka,2022-10,4
+Sri Lanka,2022-11,9
+Sudan,2020-07,1
+Sudan,2020-08,3
+Sudan,2020-12,7
+Sudan,2021-03,2
+Sudan,2021-04,4
+Sudan,2021-05,1
+Sudan,2021-06,2
+Sudan,2021-07,2
+Sudan,2021-09,1
+Sudan,2021-10,6
+Sudan,2021-11,15
+Sudan,2021-12,4
+Sudan,2022-01,9
+Sudan,2022-02,2
+Sudan,2022-03,1
+Suriname,2020-05,2
+Suriname,2020-06,5
+Suriname,2020-07,8
+Suriname,2020-08,10
+Suriname,2020-12,3
+Suriname,2021-01,5
+Suriname,2021-02,12
+Suriname,2021-03,21
+Suriname,2021-04,16
+Suriname,2021-05,25
+Suriname,2021-06,9
+Suriname,2021-07,26
+Suriname,2021-08,33
+Suriname,2021-09,19
+Suriname,2021-10,9
+Suriname,2021-11,18
+Suriname,2021-12,21
+Suriname,2022-01,2
+Suriname,2022-03,5
+Suriname,2022-04,7
+Suriname,2022-05,5
+Sweden,2020-01,1
+Sweden,2020-02,2
+Sweden,2020-03,68
+Sweden,2020-04,96
+Sweden,2020-05,48
+Sweden,2020-06,36
+Sweden,2020-07,27
+Sweden,2020-08,36
+Sweden,2020-09,35
+Sweden,2020-10,49
+Sweden,2020-11,64
+Sweden,2020-12,191
+Sweden,2021-01,729
+Sweden,2021-02,1444
+Sweden,2021-03,1801
+Sweden,2021-04,1645
+Sweden,2021-05,1599
+Sweden,2021-06,907
+Sweden,2021-07,897
+Sweden,2021-08,1427
+Sweden,2021-09,1015
+Sweden,2021-10,941
+Sweden,2021-11,1413
+Sweden,2021-12,1489
+Sweden,2022-01,713
+Sweden,2022-02,642
+Sweden,2022-03,601
+Sweden,2022-04,427
+Sweden,2022-05,357
+Sweden,2022-06,393
+Sweden,2022-07,588
+Sweden,2022-08,746
+Sweden,2022-09,851
+Sweden,2022-10,1001
+Sweden,2022-11,1044
+Sweden,2022-12,1311
+Switzerland,2020-02,3
+Switzerland,2020-03,145
+Switzerland,2020-04,62
+Switzerland,2020-05,29
+Switzerland,2020-06,32
+Switzerland,2020-07,113
+Switzerland,2020-08,144
+Switzerland,2020-09,125
+Switzerland,2020-10,337
+Switzerland,2020-11,688
+Switzerland,2020-12,921
+Switzerland,2021-01,1039
+Switzerland,2021-02,598
+Switzerland,2021-03,571
+Switzerland,2021-04,839
+Switzerland,2021-05,723
+Switzerland,2021-06,373
+Switzerland,2021-07,707
+Switzerland,2021-08,1579
+Switzerland,2021-09,1318
+Switzerland,2021-10,1282
+Switzerland,2021-11,2046
+Switzerland,2021-12,1830
+Switzerland,2022-01,913
+Switzerland,2022-02,784
+Switzerland,2022-03,778
+Switzerland,2022-04,393
+Switzerland,2022-05,532
+Switzerland,2022-06,516
+Switzerland,2022-07,524
+Switzerland,2022-08,543
+Switzerland,2022-09,657
+Switzerland,2022-10,755
+Switzerland,2022-11,665
+Switzerland,2022-12,610
+Syria,2021-12,13
+Syria,2022-01,25
+Syria,2022-02,22
+Tanzania,2021-01,1
+Tanzania,2021-03,2
+Tanzania,2021-04,5
+Tanzania,2021-12,2
+Tanzania,2022-02,1
+Thailand,2020-01,5
+Thailand,2020-02,3
+Thailand,2020-03,17
+Thailand,2020-04,6
+Thailand,2020-05,4
+Thailand,2020-06,4
+Thailand,2020-07,6
+Thailand,2020-08,5
+Thailand,2020-09,7
+Thailand,2020-10,18
+Thailand,2020-11,17
+Thailand,2020-12,13
+Thailand,2021-01,60
+Thailand,2021-02,22
+Thailand,2021-03,24
+Thailand,2021-04,24
+Thailand,2021-05,122
+Thailand,2021-06,120
+Thailand,2021-07,158
+Thailand,2021-08,144
+Thailand,2021-09,255
+Thailand,2021-10,443
+Thailand,2021-11,438
+Thailand,2021-12,435
+Thailand,2022-01,291
+Thailand,2022-02,288
+Thailand,2022-03,383
+Thailand,2022-04,353
+Thailand,2022-05,493
+Thailand,2022-06,453
+Thailand,2022-07,346
+Thailand,2022-08,285
+Thailand,2022-09,234
+Thailand,2022-10,276
+Thailand,2022-11,593
+Thailand,2022-12,387
+Timor,2021-01,4
+Timor,2021-02,1
+Timor,2021-03,6
+Timor,2021-04,14
+Timor,2021-05,13
+Timor,2021-06,11
+Timor,2021-07,2
+Timor,2021-08,1
+Timor,2022-01,1
+Togo,2020-03,5
+Togo,2020-04,3
+Togo,2020-05,5
+Togo,2020-06,1
+Togo,2020-07,2
+Togo,2020-09,3
+Togo,2020-11,1
+Togo,2020-12,7
+Togo,2021-01,8
+Togo,2021-02,32
+Togo,2021-03,17
+Togo,2021-04,22
+Togo,2021-06,30
+Togo,2021-07,25
+Togo,2021-10,12
+Togo,2021-12,5
+Togo,2022-01,6
+Togo,2022-02,3
+Togo,2022-04,2
+Togo,2022-05,8
+Togo,2022-07,8
+Togo,2022-08,4
+Togo,2022-09,1
+Tonga,2022-02,1
+Tonga,2022-03,4
+Tonga,2022-04,2
+Tonga,2022-06,2
+Tonga,2022-07,1
+Trinidad and Tobago,2021-01,1
+Trinidad and Tobago,2021-05,3
+Trinidad and Tobago,2021-06,1
+Trinidad and Tobago,2021-07,10
+Trinidad and Tobago,2021-08,32
+Trinidad and Tobago,2021-09,17
+Trinidad and Tobago,2021-10,18
+Trinidad and Tobago,2021-11,20
+Trinidad and Tobago,2021-12,18
+Trinidad and Tobago,2022-01,38
+Trinidad and Tobago,2022-02,17
+Trinidad and Tobago,2022-03,11
+Trinidad and Tobago,2022-04,6
+Trinidad and Tobago,2022-05,32
+Trinidad and Tobago,2022-06,50
+Trinidad and Tobago,2022-07,57
+Trinidad and Tobago,2022-08,68
+Trinidad and Tobago,2022-09,29
+Trinidad and Tobago,2022-10,26
+Trinidad and Tobago,2022-11,34
+Trinidad and Tobago,2022-12,16
+Tunisia,2020-03,10
+Tunisia,2020-04,8
+Tunisia,2020-05,2
+Tunisia,2020-07,5
+Tunisia,2020-08,6
+Tunisia,2020-09,17
+Tunisia,2020-10,21
+Tunisia,2020-11,23
+Tunisia,2020-12,5
+Tunisia,2021-01,18
+Tunisia,2021-02,19
+Tunisia,2021-03,68
+Tunisia,2021-04,56
+Tunisia,2021-05,66
+Tunisia,2021-06,83
+Tunisia,2021-07,8
+Tunisia,2021-08,37
+Tunisia,2021-09,64
+Tunisia,2021-10,75
+Tunisia,2021-11,49
+Tunisia,2021-12,16
+Tunisia,2022-01,9
+Tunisia,2022-02,12
+Tunisia,2022-03,12
+Tunisia,2022-04,31
+Tunisia,2022-05,6
+Tunisia,2022-06,25
+Tunisia,2022-07,28
+Tunisia,2022-08,1
+Tunisia,2022-09,1
+Tunisia,2022-10,3
+Tunisia,2022-11,10
+Turkey,2020-03,15
+Turkey,2020-04,29
+Turkey,2020-05,26
+Turkey,2020-06,18
+Turkey,2020-07,2
+Turkey,2020-08,10
+Turkey,2020-09,23
+Turkey,2020-11,28
+Turkey,2020-12,43
+Turkey,2021-01,150
+Turkey,2021-02,477
+Turkey,2021-03,861
+Turkey,2021-04,72
+Turkey,2021-05,153
+Turkey,2021-06,671
+Turkey,2021-07,605
+Turkey,2021-08,937
+Turkey,2021-09,1343
+Turkey,2021-10,605
+Turkey,2021-11,1664
+Turkey,2021-12,2137
+Turkey,2022-01,657
+Turkey,2022-02,903
+Turkey,2022-03,300
+Turkey,2022-04,441
+Turkey,2022-05,257
+Turkey,2022-06,331
+Turkey,2022-07,154
+Turkey,2022-08,215
+Turkey,2022-09,237
+Turkey,2022-10,306
+Turkey,2022-11,310
+Turkey,2022-12,325
+Turks and Caicos Islands,2021-06,1
+Turks and Caicos Islands,2021-09,1
+U.S. Virgin Islands,2021-08,6
+U.S. Virgin Islands,2021-09,9
+U.S. Virgin Islands,2021-11,10
+U.S. Virgin Islands,2021-12,1
+U.S. Virgin Islands,2022-04,1
+U.S. Virgin Islands,2022-05,31
+U.S. Virgin Islands,2022-06,16
+U.S. Virgin Islands,2022-07,13
+U.S. Virgin Islands,2022-08,19
+Uganda,2020-03,5
+Uganda,2020-04,4
+Uganda,2020-05,6
+Uganda,2020-07,4
+Uganda,2020-08,18
+Uganda,2020-09,15
+Uganda,2020-10,12
+Uganda,2020-11,26
+Uganda,2020-12,44
+Uganda,2021-01,15
+Uganda,2021-02,8
+Uganda,2021-03,24
+Uganda,2021-04,16
+Uganda,2021-05,14
+Uganda,2021-06,41
+Uganda,2021-07,10
+Uganda,2021-08,2
+Uganda,2021-10,2
+Uganda,2021-11,3
+Uganda,2021-12,3
+Uganda,2022-01,3
+Uganda,2022-02,3
+Uganda,2022-05,2
+Uganda,2022-06,12
+Uganda,2022-07,6
+Uganda,2022-08,2
+Uganda,2022-09,7
+Uganda,2022-10,17
+Uganda,2022-11,11
+Uganda,2022-12,25
+Ukraine,2020-04,1
+Ukraine,2020-05,8
+Ukraine,2020-06,6
+Ukraine,2020-07,4
+Ukraine,2020-08,6
+Ukraine,2020-11,1
+Ukraine,2020-12,29
+Ukraine,2021-01,34
+Ukraine,2021-02,9
+Ukraine,2021-03,10
+Ukraine,2021-05,15
+Ukraine,2021-06,23
+Ukraine,2021-07,9
+Ukraine,2021-08,4
+Ukraine,2021-09,25
+Ukraine,2021-10,52
+Ukraine,2021-11,43
+Ukraine,2021-12,38
+Ukraine,2022-01,30
+Ukraine,2022-10,2
+United Arab Emirates,2020-01,1
+United Arab Emirates,2020-02,5
+United Arab Emirates,2020-03,6
+United Arab Emirates,2020-04,25
+United Arab Emirates,2020-05,187
+United Arab Emirates,2020-06,72
+United Arab Emirates,2020-07,11
+United Arab Emirates,2020-08,25
+United Arab Emirates,2020-09,34
+United Arab Emirates,2020-10,35
+United Arab Emirates,2020-11,45
+United Arab Emirates,2020-12,92
+United Arab Emirates,2021-01,137
+United Arab Emirates,2021-02,85
+United Arab Emirates,2021-04,1
+United Arab Emirates,2021-05,63
+United Arab Emirates,2021-06,243
+United Arab Emirates,2021-07,371
+United Arab Emirates,2021-08,258
+United Arab Emirates,2021-09,323
+United Arab Emirates,2021-10,272
+United Arab Emirates,2021-11,259
+United Arab Emirates,2021-12,273
+United Arab Emirates,2022-01,62
+United Arab Emirates,2022-03,16
+United Arab Emirates,2022-04,4
+United Arab Emirates,2022-06,6
+United Kingdom,2020-01,2
+United Kingdom,2020-02,20
+United Kingdom,2020-03,763
+United Kingdom,2020-04,1480
+United Kingdom,2020-05,646
+United Kingdom,2020-06,722
+United Kingdom,2020-07,370
+United Kingdom,2020-08,797
+United Kingdom,2020-09,1477
+United Kingdom,2020-10,3007
+United Kingdom,2020-11,3998
+United Kingdom,2020-12,3693
+United Kingdom,2021-01,6317
+United Kingdom,2021-02,5396
+United Kingdom,2021-03,5770
+United Kingdom,2021-04,3291
+United Kingdom,2021-05,2734
+United Kingdom,2021-06,5176
+United Kingdom,2021-07,8714
+United Kingdom,2021-08,12310
+United Kingdom,2021-09,13599
+United Kingdom,2021-10,17957
+United Kingdom,2021-11,22004
+United Kingdom,2021-12,15110
+United Kingdom,2022-01,11330
+United Kingdom,2022-02,12764
+United Kingdom,2022-03,14430
+United Kingdom,2022-04,6716
+United Kingdom,2022-05,3182
+United Kingdom,2022-06,4346
+United Kingdom,2022-07,5028
+United Kingdom,2022-08,2556
+United Kingdom,2022-09,2399
+United Kingdom,2022-10,3672
+United Kingdom,2022-11,2116
+United Kingdom,2022-12,3893
+United States,2020-01,16
+United States,2020-02,23
+United States,2020-03,798
+United States,2020-04,1194
+United States,2020-05,1028
+United States,2020-06,1161
+United States,2020-07,2614
+United States,2020-08,1850
+United States,2020-09,1704
+United States,2020-10,2662
+United States,2020-11,4186
+United States,2020-12,7127
+United States,2021-01,11656
+United States,2021-02,9570
+United States,2021-03,12149
+United States,2021-04,13537
+United States,2021-05,9238
+United States,2021-06,5955
+United States,2021-07,13023
+United States,2021-08,23335
+United States,2021-09,28659
+United States,2021-10,28837
+United States,2021-11,28016
+United States,2021-12,26865
+United States,2022-01,17454
+United States,2022-02,10989
+United States,2022-03,6234
+United States,2022-04,7193
+United States,2022-05,11970
+United States,2022-06,14566
+United States,2022-07,16032
+United States,2022-08,14632
+United States,2022-09,12350
+United States,2022-10,10825
+United States,2022-11,12972
+United States,2022-12,15207
+Uruguay,2020-03,3
+Uruguay,2020-04,4
+Uruguay,2020-05,1
+Uruguay,2020-06,3
+Uruguay,2020-07,6
+Uruguay,2020-08,3
+Uruguay,2020-09,5
+Uruguay,2020-10,5
+Uruguay,2020-11,5
+Uruguay,2020-12,3
+Uruguay,2021-01,12
+Uruguay,2021-02,16
+Uruguay,2021-03,22
+Uruguay,2021-04,23
+Uruguay,2021-05,3
+Uruguay,2021-06,1
+Uruguay,2021-07,1
+Uruguay,2021-09,12
+Uruguay,2021-10,4
+Uruguay,2021-11,7
+Uruguay,2021-12,5
+Uruguay,2022-01,10
+Uruguay,2022-02,11
+Uruguay,2022-03,5
+Uruguay,2022-04,2
+Uruguay,2022-05,8
+Uruguay,2022-06,9
+Uruguay,2022-07,9
+Uruguay,2022-08,7
+Uruguay,2022-09,5
+Uruguay,2022-10,7
+Uruguay,2022-11,3
+Uruguay,2022-12,15
+Uzbekistan,2020-10,8
+Uzbekistan,2021-06,29
+Uzbekistan,2022-05,1
+Uzbekistan,2022-07,10
+Uzbekistan,2022-08,4
+Vanuatu,2021-10,2
+Vanuatu,2022-02,1
+Vanuatu,2022-03,3
+Vanuatu,2022-04,5
+Vanuatu,2022-05,3
+Vanuatu,2022-06,8
+Vanuatu,2022-07,1
+Vanuatu,2022-08,3
+Vanuatu,2022-09,1
+Venezuela,2020-03,4
+Venezuela,2020-04,2
+Venezuela,2020-05,2
+Venezuela,2020-09,7
+Venezuela,2020-10,8
+Venezuela,2020-11,2
+Venezuela,2020-12,1
+Venezuela,2021-01,12
+Venezuela,2021-02,11
+Venezuela,2021-03,13
+Venezuela,2021-04,21
+Venezuela,2021-05,32
+Venezuela,2021-06,30
+Venezuela,2021-07,26
+Venezuela,2021-08,13
+Venezuela,2021-09,40
+Venezuela,2021-10,49
+Venezuela,2021-11,18
+Venezuela,2021-12,16
+Venezuela,2022-01,24
+Venezuela,2022-02,5
+Venezuela,2022-03,2
+Venezuela,2022-04,5
+Venezuela,2022-05,14
+Venezuela,2022-06,19
+Venezuela,2022-07,43
+Venezuela,2022-08,12
+Venezuela,2022-09,6
+Venezuela,2022-10,13
+Venezuela,2022-11,12
+Venezuela,2022-12,46
+Vietnam,2020-01,2
+Vietnam,2020-02,1
+Vietnam,2020-03,13
+Vietnam,2020-04,2
+Vietnam,2020-06,1
+Vietnam,2020-07,3
+Vietnam,2020-08,7
+Vietnam,2020-10,1
+Vietnam,2020-11,2
+Vietnam,2020-12,7
+Vietnam,2021-01,6
+Vietnam,2021-02,4
+Vietnam,2021-03,2
+Vietnam,2021-04,6
+Vietnam,2021-05,18
+Vietnam,2021-06,12
+Vietnam,2021-07,18
+Vietnam,2021-08,84
+Vietnam,2021-09,58
+Vietnam,2021-10,40
+Vietnam,2021-11,38
+Vietnam,2021-12,82
+Vietnam,2022-01,93
+Vietnam,2022-02,107
+Vietnam,2022-03,103
+Vietnam,2022-04,50
+Vietnam,2022-05,34
+Vietnam,2022-06,34
+Vietnam,2022-07,64
+Vietnam,2022-08,93
+Vietnam,2022-09,98
+Vietnam,2022-10,79
+Vietnam,2022-11,51
+Vietnam,2022-12,44
+Wallis and Futuna,2021-03,1
+Wallis and Futuna,2021-04,1
+Zambia,2020-03,1
+Zambia,2020-07,1
+Zambia,2020-08,2
+Zambia,2020-12,5
+Zambia,2021-01,6
+Zambia,2021-02,12
+Zambia,2021-03,2
+Zambia,2021-04,3
+Zambia,2021-05,1
+Zambia,2021-06,13
+Zambia,2021-07,26
+Zambia,2021-08,11
+Zambia,2021-09,6
+Zambia,2021-11,2
+Zambia,2021-12,19
+Zambia,2022-01,22
+Zambia,2022-02,5
+Zambia,2022-03,19
+Zambia,2022-04,7
+Zambia,2022-05,5
+Zambia,2022-06,14
+Zambia,2022-07,11
+Zambia,2022-08,3
+Zambia,2022-09,3
+Zambia,2022-11,4
+Zambia,2022-12,6
+Zimbabwe,2020-03,1
+Zimbabwe,2020-05,1
+Zimbabwe,2020-06,1
+Zimbabwe,2020-07,6
+Zimbabwe,2020-08,5
+Zimbabwe,2020-09,1
+Zimbabwe,2020-10,4
+Zimbabwe,2020-11,1
+Zimbabwe,2020-12,20
+Zimbabwe,2021-01,6
+Zimbabwe,2021-07,2
+Zimbabwe,2021-08,14
+Zimbabwe,2021-09,6
+Zimbabwe,2021-10,7
+Zimbabwe,2021-11,2
+Zimbabwe,2021-12,5

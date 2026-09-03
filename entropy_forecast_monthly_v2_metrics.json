@@ -1,0 +1,125 @@
+{
+ "final_model": "v2_ensemble",
+ "descriptor": {
+  "type": "cross",
+  "cfgs": [
+   {
+    "model": "resv2",
+    "target_norm": "global",
+    "K": 5,
+    "hidden": 256,
+    "delta": true,
+    "cal_lambda": 30.0
+   },
+   {
+    "model": "resv2",
+    "target_norm": "global",
+    "K": 3,
+    "delta": true
+   }
+  ],
+  "stages": [
+   "C",
+   "A"
+  ],
+  "seed": 7,
+  "smooth_win": 0,
+  "cal_lambda": 1.0
+ },
+ "members": [
+  {
+   "model": "resv2",
+   "K": 5,
+   "target_norm": "global",
+   "delta": true,
+   "hidden": 256,
+   "dropout": 0.1
+  },
+  {
+   "model": "resv2",
+   "K": 3,
+   "target_norm": "global",
+   "delta": true,
+   "hidden": 128,
+   "dropout": 0.1
+  }
+ ],
+ "split": "train: target month <= 2022-07; val: >= 2022-08",
+ "n_train": 2785,
+ "n_val": 477,
+ "countries": 124,
+ "val_full_ensemble": {
+  "r2": 0.832,
+  "mae": 3.2344,
+  "rmse": 8.691,
+  "mse": 75.5326,
+  "per_country_r2_median": 0.4775,
+  "n_countries_eval": 106,
+  "n_countries_r2_ge_08": 17,
+  "frac_countries_r2_ge_08": 0.1604,
+  "n": 477
+ },
+ "val_full_ensemble_calibrated": {
+  "r2": 0.8257,
+  "mae": 3.2177,
+  "rmse": 8.8515,
+  "mse": 78.3485,
+  "per_country_r2_median": 0.4465,
+  "n_countries_eval": 106,
+  "n_countries_r2_ge_08": 25,
+  "frac_countries_r2_ge_08": 0.2358,
+  "n": 477
+ },
+ "val_final": {
+  "r2": 0.8257,
+  "mae": 3.2177,
+  "rmse": 8.8515,
+  "mse": 78.3485,
+  "per_country_r2_median": 0.4465,
+  "n_countries_eval": 106,
+  "n_countries_r2_ge_08": 25,
+  "frac_countries_r2_ge_08": 0.2358,
+  "n": 477
+ },
+ "smooth_win": 0,
+ "val_entonly_ensemble": {
+  "r2": 0.7466,
+  "mae": 3.1961,
+  "rmse": 10.6733,
+  "mse": 113.9193,
+  "per_country_r2_median": 0.4911,
+  "n_countries_eval": 106,
+  "n_countries_r2_ge_08": 19,
+  "frac_countries_r2_ge_08": 0.1792,
+  "n": 477
+ },
+ "val_entonly_calibrated": {
+  "r2": 0.8064,
+  "mae": 3.0833,
+  "rmse": 9.3287,
+  "mse": 87.025,
+  "per_country_r2_median": 0.5112,
+  "n_countries_eval": 106,
+  "n_countries_r2_ge_08": 29,
+  "frac_countries_r2_ge_08": 0.2736,
+  "n": 477
+ },
+ "emb_contribution": 0.337,
+ "emb_contribution_calibrated": 0.0997,
+ "emb_contribution_rule": "(MSE_entonly_ens - MSE_full_ens) / MSE_entonly_ens (未校准未平滑)",
+ "acceptance": {
+  "per_country_ge08": "25/106",
+  "per_country_pass": false,
+  "emb_contribution": 0.337,
+  "emb_contribution_pass": true,
+  "pooled_r2": 0.832,
+  "pooled_r2_pass": true
+ },
+ "v1_reference": {
+  "pooled_r2": 0.8223,
+  "per_country_median": 0.4012,
+  "n_ge_08": 19,
+  "n_eval": 106,
+  "emb_contribution": 0.31
+ }
+}

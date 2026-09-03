@@ -1,0 +1,1 @@
+{"type": "cross", "cfgs": [{"model": "resv2", "target_norm": "global", "K": 5, "hidden": 256, "delta": true, "cal_lambda": 30.0}, {"model": "resv2", "target_norm": "global", "K": 3, "delta": true}], "stages": ["C", "A"], "seed": 7, "smooth_win": 0, "cal_lambda": 1.0}
