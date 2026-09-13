@@ -1,11 +1,10 @@
 # -*- coding: utf-8 -*-
-"""plot_explanation_figures_v2.py (v2 解释数据源, 输出 figure_monthly_revised/)
-原文件说明:  — 事后解释结果可视化 (figure-style 规范) -> figure_monthly/
+"""plot_explanation_figures_v2.py — 事后解释结果可视化 (figure-style 规范) -> figure_monthly_revised/
 规范要点: CVD 安全调色板(禁红绿对立)、颜色跨图一致(threading)、句式要点标题、
 字体三级阶梯(8/7/6)、lollipop 单观测类别、线端直接标注、发散色语义零点居中、
 每面板注明 n 与固定条件、保存后 §9.1 重叠检查 + §9.2 目检。
-数据: factor_effects_monthly.json / factor_effects_vaccine_era.json /
-      policy_combination_results.json / policy_recommendations.csv
+数据: factor_effects_monthly_v2.json / factor_effects_vaccine_era_v2.json /
+      policy_combination_results_v2.json / policy_recommendations_v2.csv
 """
 import csv, json, os
 

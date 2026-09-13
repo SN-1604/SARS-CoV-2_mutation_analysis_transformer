@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
-"""factor_sensitivity.py — 月熵预测模型的事后解释: 控制变量比例扰动敏感性
-链路: 周面板扰动 -> log1p/z -> repr13 周窗表征 -> 按窗结束月平均 -> v4 集成预测
+"""factor_sensitivity_v2.py — 月熵预测模型的事后解释: 控制变量比例扰动敏感性
+链路: 周面板扰动 -> log1p/z -> repr13 周窗表征 -> 按窗结束月平均 -> 跨配置集成预测
 v2 适配: 熵预测模型为 entropy_forecast_monthly_v2_best.pt (跨配置成员集成,
 全局归一化); 解释统一使用未校准集成预测 (forecast_v4_adapter, members 结构通用)。
 扰动: δ ∈ ±10%..±100% (10% 梯度), 全时间轴持续性缩放 (目标月输入窗只含 ≤ 最后输入月
@@ -13,8 +13,8 @@ v2 适配: 熵预测模型为 entropy_forecast_monthly_v2_best.pt (跨配置成�
     速度扰动时覆盖率按加性累计联动 (日净增值 ≡ 钳制后速度, apply_speed_to_coverage);
   - tests (检测量) 已移出分析; 静态背景列不扰动。
 因素分组: cases 组为每日净增病例数 (new_cases* 流量列, 不含累计列)。
-输出: factor_effects_monthly.csv / .json + factor_effects_vaccine_era.json
-锚点: δ=0 复现验证 R²≈0.822。
+输出: factor_effects_monthly_v2.csv / .json + factor_effects_vaccine_era_v2.json
+锚点: δ=0 复现验证 R²≈0.832 (未校准)。
 """
 import datetime as dt
 import json, pickle

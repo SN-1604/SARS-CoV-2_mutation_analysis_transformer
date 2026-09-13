@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""policy_combination_search.py — 疫苗接种 × 政策 组合寻优 (反事实网格搜索 + 交互分析)
+"""policy_combination_search_v2.py — 疫苗接种 × 政策 组合寻优 (反事实网格搜索 + 交互分析)
 在验证集 477 个 (国家, 目标月) 样本上, 对三杆组合网格批量前向:
   vacc_coverage × {0.5,0.75,1.0,1.5,2.0,3.0}   (不截断)
   vacc_speed    × {0.5,1,1.5,2,3,5}            (只限制变化程度: 每日覆盖率增加值 ≤1/百人;
@@ -8,7 +8,7 @@
                                                 ×5 仅 36/141 国可达; 速度经加性累计联动覆盖率)
   stringency    × {0.5,0.75,1.0,1.25,1.5,2.0}  (增量钳制: 值域[0,100];
                                                 观测值<15 的国家-周不允许下调)
-反事实构造与 factor_sensitivity.build_counterfactual_panel 完全一致。
+反事实构造与 factor_sensitivity_v2.build_counterfactual_panel 完全一致。
 目标: 预测熵最小 (遏制变异速度 -> 趋同进化)。
 输出: policy_combination_results_v2.json (含 speed_reachability), policy_recommendations_v2.csv
 v2 适配: 熵预测模型为 entropy_forecast_monthly_v2_best.pt (未校准集成,

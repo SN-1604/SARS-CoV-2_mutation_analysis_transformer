@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
 """finalize_monthly_forecast_v2.py — 定稿月熵预测模型 (不覆盖 v1/v2/v3 产物)
 读取 best_config 描述 (单配置或跨配置), 缺种子运行自动补训, 打包成员集成权重。
-后处理: 滚动在线校准 (严格因果; descriptor 的 roll_lam/roll_win 控制);
+后处理: 逐国仿射静态校准 (训练段拟合 y≈a+b·pred, 向恒等映射岭收缩,
+descriptor 的 cal_lambda 控制强度; 另支持严格因果的滚动在线校准 roll_lam/roll_win);
 评估口径: 全量 106 国 + 剔除月均序列<10 国后的过滤口径 (--counts_file 提供计数,
 descriptor 的 exclude_mean_seq_below 控制阈值, 默认 10)。
 产物 ({prefix}_*):
@@ -9,9 +10,9 @@ descriptor 的 exclude_mean_seq_below 控制阈值, 默认 10)。
   {prefix}_per_country.csv
 验收: 过滤口径逐国 R2>=0.8 国家数 >= ceil(0.5*n_eval); 表征贡献 >=0.30;
       pooled R2 >=0.80 (后两者均为过滤口径未校准集成)
-运行: G:/Anaconda3/envs/esm/python.exe finalize_monthly_forecast_v2.py \
-        --best_cfg forecast_v4_best_config.json --runs monthly_forecast_runs_v4 \
-        --prefix entropy_forecast_monthly_v4 --counts_file seqcounts_monthly.csv
+运行: G:/Anaconda3/envs/esm/python.exe finalize_monthly_forecast_v2.py
+        (默认 --best_cfg forecast_v2_best_config.json --runs monthly_forecast_runs_v2
+         --prefix entropy_forecast_monthly_v2)
 """
 import argparse, json, os
 
